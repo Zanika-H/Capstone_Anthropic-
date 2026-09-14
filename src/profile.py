@@ -144,3 +144,115 @@ plt.tight_layout()
 
 plt.savefig("variable_distribution.png", dpi=300)
 plt.show()
+
+#Deeper analysis
+# ---------------------------------------------------------
+# Consumer vs. Business Task Comparison
+# ---------------------------------------------------------
+
+claude_file = DATA_DIR / "aei_raw_claude_ai_2025-08-04_to_2025-08-11.csv"
+api_file = DATA_DIR / "aei_raw_1p_api_2025-08-04_to_2025-08-11.csv"
+
+claude = pd.read_csv(claude_file)
+api = pd.read_csv(api_file)
+
+# Keep global O*NET task percentages
+claude_tasks = claude[
+    (claude["geography"] == "global") &
+    (claude["variable"] == "onet_task_pct") &
+    (~claude["cluster_name"].isin(["none", "not_classified"]))
+][["cluster_name", "value"]].rename(
+    columns={"value": "claude_pct"}
+)
+
+api_tasks = api[
+    (api["geography"] == "global") &
+    (api["variable"] == "onet_task_pct") &
+    (~api["cluster_name"].isin(["none", "not_classified"]))
+][["cluster_name", "value"]].rename(
+    columns={"value": "api_pct"}
+)
+
+# Compare tasks appearing in both datasets
+task_comparison = claude_tasks.merge(
+    api_tasks,
+    on="cluster_name",
+    how="inner"
+)
+
+task_comparison["difference"] = (
+    task_comparison["claude_pct"] -
+    task_comparison["api_pct"]
+)
+
+print("\nConsumer vs. Business Task Comparison")
+print("-" * 50)
+print(f"Shared tasks compared: {len(task_comparison)}")
+
+print("\nTop 10 tasks higher in Claude.ai:")
+print(
+    task_comparison
+    .sort_values("difference", ascending=False)
+    .head(10)
+    .to_string(index=False)
+)
+
+print("\nTop 10 tasks higher in 1P API:")
+print(
+    task_comparison
+    .sort_values("difference")
+    .head(10)
+    .to_string(index=False)
+)
+
+# Save results
+task_comparison.to_csv(
+    PROJECT_ROOT / "task_comparison.csv",
+    index=False
+)
+
+# ---------------------------------------------------------
+# Plot: Largest Consumer vs. Business Task Differences
+# ---------------------------------------------------------
+
+top_claude = (
+    task_comparison
+    .sort_values("difference", ascending=False)
+    .head(10)
+    .copy()
+)
+
+top_api = (
+    task_comparison
+    .sort_values("difference")
+    .head(10)
+    .copy()
+)
+
+plot_data = pd.concat([top_claude, top_api])
+
+# Shorten task names so the chart is readable
+plot_data["short_task"] = plot_data["cluster_name"].str.slice(0, 70)
+
+plt.figure(figsize=(12, 10))
+
+plt.barh(
+    plot_data["short_task"],
+    plot_data["difference"]
+)
+
+plt.axvline(0)
+
+plt.xlabel("Difference in task usage percentage points")
+plt.ylabel("O*NET task")
+plt.title("Tasks Used Differently in Claude.ai vs. 1P API")
+
+plt.tight_layout()
+
+plt.savefig(
+    PROJECT_ROOT / "task_comparison.png",
+    dpi=300,
+    bbox_inches="tight"
+)
+
+plt.show()

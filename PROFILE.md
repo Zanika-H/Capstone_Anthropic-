@@ -26,7 +26,6 @@ Country-level records make up the largest portion of the dataset, followed by gl
 
 **Figure 1.** Number of Claude.ai dataset records by geographic level. Country-level records are the most common, followed by global and U.S. state records.
 
-
 ## Facet Distribution
 
 The dataset contains several different facets that describe how Claude.ai usage is measured:
@@ -88,7 +87,16 @@ The percentage of missing values is very small, with the highest missingness occ
 
 The dataset provides information about different types of Claude.ai tasks, including requests, ONET tasks, and collaboration-related tasks. These categories provide a foundation for comparing how AI is used across different settings.
 
-The distinction between collaboration measures and task categories is especially useful for the research question, **“Do consumers and businesses use AI differently on the same tasks?”** The dataset includes information from Claude.ai usage as well as first-party API usage, which can be used to compare patterns of AI use between different user contexts.
+The distinction between collaboration measures and task categories is especially useful for the research question, **“Do consumers and businesses use AI differently on the same tasks?”** The Claude.ai dataset provides information about different types of AI tasks and collaboration patterns that can later be compared with the corresponding first-party API data.
 
 The descriptive profile shows that the dataset contains enough task and collaboration information to investigate differences in AI use. Further analysis will be needed to determine whether consumers and businesses actually use AI differently on comparable tasks.
 
+## Claude.ai vs. 1P API Task Comparison
+
+To directly examine the research question, I compared global O*NET task percentages in Claude.ai and 1P API usage. After excluding `none` and `not_classified`, 1,603 tasks appeared in both datasets and could be directly compared.
+
+The largest differences show that some educational, writing/editing, and troubleshooting tasks have higher representation in Claude.ai, while software modification, data processing, machine learning, and security-related tasks have higher representation in 1P API usage.
+
+![Task comparison](task_comparison.png)
+
+**Figure caption:** Largest differences in global O*NET task usage between Claude.ai and 1P API. Positive values indicate higher representation in Claude.ai, while negative values indicate higher representation in 1P API.

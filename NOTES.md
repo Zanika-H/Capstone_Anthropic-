@@ -34,7 +34,7 @@ https://huggingface.co/datasets/Anthropic/EconomicIndex/tree/main/release_2025_0
 
 ---
 
-## 2. Documentation Notes
+## 2. Documentation 
 
 ### Data Collection
 
@@ -52,30 +52,31 @@ For the 1P API data, each row represents one metric value for a specific facet c
 
 ### Main Variables
 
-Important variables include:
+These are the important variables:
 
 - `facet`
 - `level`
 - `variable`
 - `cluster_name`
 - `value`
+- `geo_id`
+- `geography`
 
-The Claude.ai data also includes geographic information such as `geo_id` and `geography`.
 
 ### Collaboration / AI Use
 
 The dataset includes collaboration patterns describing how humans and AI interact.
 
-The documentation includes:
+The documentation has:
 
-- `automation_pct`: percentage of classifiable collaboration that is automation-focused
-- `augmentation_pct`: percentage of classifiable collaboration that is augmentation-focused
+- `automation_pct`: % of classifiable collaboration which is automation-focused
+- `augmentation_pct`: % of classifiable collaboration which is augmentation-focused
 
 ### Derived Metrics
 
-The documentation states that some metrics are calculated during the enrichment process rather than being directly present in the raw data. These include indices, tiers, per-capita calculations, and automation/augmentation percentages.
+The documentation says that some metrics are calculated during the enrichment process rather than being directly present in the raw data. These include indices, tiers, per-capita calculations, and automation/augmentation percentages.
 
-### Data Files Relevant to My Research Question
+### Files Relevant to Research Question 3
 
 Claude.ai:
 
@@ -85,21 +86,19 @@ First-party API:
 
 `aei_raw_1p_api_2025-08-04_to_2025-08-11.csv`
 
-Both files are located in the `data/intermediate/` folder of the September 2025 release.
+Both files are in the `data/intermediate/` folder of the September 2025 release.
 
 ---
 
 ## 3. Verification Targets / Headline Numbers
 
-The September 2025 Anthropic Economic Index report provides the following numbers that can be used as verification targets:
+In the September 2025 Anthropic Economic Index report, it provides numbers that can be used as verification targets:
 
 1. Claude.ai usage was dominated by computer and mathematical tasks, which accounted for approximately 36% of overall usage.
 
 2. 1P API usage was approximately 77% automation-focused.
 
 3. Claude.ai usage was approximately 50% automation-focused.
-
-These numbers will be used to verify that the downloaded data and calculations are consistent with the published Anthropic Economic Index report.
 
 ---
 
@@ -121,24 +120,21 @@ The data also contains O*NET task classifications, which allow AI usage to be as
 
 The inventory script (`src/inventory.py`) was used to examine the downloaded CSV files.
 
-### Claimed vs. Actual Inventory
+| Claude.ai CSV | 100,062 | 10 | 18.02 MB |
+| 1P API CSV | 33,794 | 10 | 6.70 MB |
 
-| File | Expected/Documented | Actual |
-|---|---|---:|
-| Claude.ai CSV | Downloaded from September 2025 release | 100,062 rows, 10 columns, 18.02 MB |
-| 1P API CSV | Downloaded from September 2025 release | 33,794 rows, 10 columns, 6.70 MB |
-
+The inventory results were compared with the dataset documentation and used as a baseline for verifying the downloaded files. No row count mismatches were identified from the documented dataset files.
 ### Missing Values
 
 The 1P API file contains no missing values.
 
-The Claude.ai file contains:
+However, the Claude.ai file has:
 
 - 22 missing values in `geo_id` (0.02%)
 - 450 missing values in `cluster_name` (0.45%)
 - All other fields have no missing values.
 
-The inventory was generated using `src/inventory.py`.
+Again, the inventory was generated using `src/inventory.py`.
 
 ---
 
