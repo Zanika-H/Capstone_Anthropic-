@@ -152,5 +152,5 @@ Protective Service                           0.159052
 Transportation and Material Moving           0.177936
 Healthcare Support                           0.194366
 
-<img width="457" height="467" alt="image" src="https://github.com/user-attachments/assets/7e7f4cbe-a06d-4a34-9bdd-7928be119eca" />
+
 
