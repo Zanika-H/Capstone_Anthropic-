@@ -100,3 +100,54 @@ The largest differences show that some educational, writing/editing, and trouble
 ![Task comparison](task_comparison.png)
 
 **Figure caption:** Largest differences in global O*NET task usage between Claude.ai and 1P API. Positive values indicate higher representation in Claude.ai, while negative values indicate higher representation in 1P API.
+
+
+# EDA of New Research Question
+
+## Top 20 Occupations by AI Penetration
+Bar chart shows occupations most represented in AI usage.  
+"Not Classified" is the highest — this consists of ambiguous or mixed requests.  
+Computer and Mathematical is the highest real occupation group.  
+Educational Instruction & Library, Arts & Media, Office Support, and Life & Physical Sciences follow behind.
+
+![Top 20 Occupations]("Top 20 Occupations by AI Penetration (Soc_PCT).png")
+
+### Interpretation
+AI is used most heavily in technical, creative, and educational domains.  
+Occupations like Food Service, Healthcare Support, Transportation, etc. show very low penetration, meaning AI is not commonly used in those job categories.
+
+---
+
+## Distribution of AI Penetration Across Occupations
+Histogram showing overall spread of AI penetration across all occupations.  
+The distribution is heavily right‑skewed.  
+Most occupations have low AI penetration (near zero).  
+Only a few occupations have high penetration (up to ~60%).
+
+![Distribution of AI Penetration]("Distribution Of AI Penetration Across Occupations.png")
+
+### Interpretation
+AI usage is not evenly distributed across the labor market.  
+A small number of occupations are highly AI‑exposed, while most occupations barely interact with AI at all.
+
+---
+
+## Average AI Penetration by Occupation Group
+The bar chart shows average penetration for each occupation group.  
+Highest is Computer and Mathematical.  
+Educational, Arts & Media, Office Support, Science, Business, and Community Service follow.  
+Construction, Protective Service, Food Prep, Healthcare Support, and Transportation are very low.
+
+![Average AI Penetration]("Average AI Penetration By Occupation Group.png")
+
+## Interpretation
+AI is concentrated in knowledge‑work and creative fields.  
+Manual labor, service work, and physical jobs have minimal AI exposure.
+
+## Bottom 20 Occupations
+        Occupations                            pct
+Construction and Extraction                  0.102154
+Building and Grounds Cleaning                0.126631
+Protective Service                           0.159052
+Transportation and Material Moving           0.177936
+Healthcare Support                           0.194366
