@@ -147,12 +147,7 @@ AI is concentrated in knowledge‑work and creative fields.
 Manual labor, service work, and physical jobs have minimal AI exposure.
 
 ## Bottom 20 Occupations
-        Occupations                            pct
-Construction and Extraction                  0.102154
-Building and Grounds Cleaning                0.126631
-Protective Service                           0.159052
-Transportation and Material Moving           0.177936
-Healthcare Support                           0.194366
+<img width="354" height="88" alt="image" src="https://github.com/user-attachments/assets/c1a71ce4-d1c8-4599-b5f0-dfaf3689106d" />
 
 
 
