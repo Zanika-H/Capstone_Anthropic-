@@ -110,7 +110,8 @@ Bar chart shows occupations most represented in AI usage.
 Computer and Mathematical is the highest real occupation group.  
 Educational Instruction & Library, Arts & Media, Office Support, and Life & Physical Sciences follow behind.
 
-![Top 20 Occupations]("Top 20 Occupations by AI Penetration (Soc_PCT).png")
+<img width="890" height="452" alt="image" src="https://github.com/user-attachments/assets/9a5f7236-e137-49a3-9d8b-bd41c8edee26" />
+
 
 ### Interpretation
 AI is used most heavily in technical, creative, and educational domains.  
@@ -123,8 +124,8 @@ Histogram showing overall spread of AI penetration across all occupations.
 The distribution is heavily right‑skewed.  
 Most occupations have low AI penetration (near zero).  
 Only a few occupations have high penetration (up to ~60%).
+<img width="746" height="443" alt="image" src="https://github.com/user-attachments/assets/998e6d9b-397f-45f7-92d4-ac90ae8028cb" />
 
-![Distribution of AI Penetration]("Distribution Of AI Penetration Across Occupations.png")
 
 ### Interpretation
 AI usage is not evenly distributed across the labor market.  
@@ -138,7 +139,8 @@ Highest is Computer and Mathematical.
 Educational, Arts & Media, Office Support, Science, Business, and Community Service follow.  
 Construction, Protective Service, Food Prep, Healthcare Support, and Transportation are very low.
 
-![Average AI Penetration]("Average AI Penetration By Occupation Group.png")
+<img width="888" height="446" alt="image" src="https://github.com/user-attachments/assets/8b3cf64f-d127-4840-bc5d-ad85376f4bf6" />
+
 
 ## Interpretation
 AI is concentrated in knowledge‑work and creative fields.  
