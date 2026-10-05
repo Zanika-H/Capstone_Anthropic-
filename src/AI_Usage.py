@@ -4,55 +4,28 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 
-# ---------------------------------------------------------
-# 1. Load Data
-# ---------------------------------------------------------
-
-# Make sure results folder exists
-os.makedirs("results", exist_ok=True)
-
-# Load enriched AEI dataset and O*NET metadata
-aei = pd.read_csv("data/aei_enriched_claude_ai_2025-08-04_to_2025-08-11.csv")   # <-- corrected filename
-task_meta = pd.read_csv("data/onet_task_statements.csv")
 
 # ---------------------------------------------------------
-# 2. Filter to O*NET tasks + automation/augmentation metrics
+# 1. Load AEI dataset
 # ---------------------------------------------------------
-
-onet = aei[aei["facet"].isin(["onet_task", "onet_task::collaboration"])].copy()
-
-onet = onet[onet["variable"].isin(["automation_pct", "augmentation_pct"])].copy()
+aei = pd.read_csv("data/aei_enriched_claude_ai_2025-08-04_to_2025-08-11.csv")
 
 # ---------------------------------------------------------
-# 3. Clean keys for merging
+# 2. Filter to occupation-level data
 # ---------------------------------------------------------
-# Clean keys
-onet["task_key"] = (
-    onet["cluster_name"]
-    .str.lower()
-    .str.strip()
-)
+occ = aei[aei["facet"] == "soc_occupation"].copy()
 
-task_meta["task_key"] = (
-    task_meta["Task"]
-    .str.lower()
-    .str.strip()
-)
+print("Rows in occupation dataset:", len(occ))
+print(occ.head())
 
-# Merge using correct column name
-merged = onet.merge(
-    task_meta[["task_key", "Task Type"]],
-    on="task_key",
-    how="left"
-)
-
-print("Share of tasks with missing Task Type:", merged["Task Type"].isna().mean())
-
-# Pivot using correct column name
-category_stats = (
-    merged
+# ---------------------------------------------------------
+# ---------------------------------------------------------
+# 3. Pivot to get soc_pct per occupation
+# ---------------------------------------------------------
+occ_stats = (
+    occ
     .pivot_table(
-        index="Task Type",
+        index="cluster_name",
         columns="variable",
         values="value",
         aggfunc="mean"
@@ -60,66 +33,110 @@ category_stats = (
     .reset_index()
 )
 
-category_stats["automation_to_augmentation_ratio"] = (
-    category_stats["automation_pct"] / category_stats["augmentation_pct"]
+print("\nPivoted occupation stats:")
+print(occ_stats.head())
+
+# ---------------------------------------------------------
+# 4. Outlier Detection 
+# ---------------------------------------------------------
+q1 = occ_stats["soc_pct"].quantile(0.25)
+q3 = occ_stats["soc_pct"].quantile(0.75)
+iqr = q3 - q1
+
+upper = q3 + 1.5 * iqr
+lower = q1 - 1.5 * iqr
+
+outliers = occ_stats[(occ_stats["soc_pct"] > upper) | (occ_stats["soc_pct"] < lower)]
+
+print("\nOutlier Occupations:")
+print(outliers)
+
+
+# ---------------------------------------------------------
+# 5. Plot top 20 occupations
+# ---------------------------------------------------------
+plt.figure(figsize=(12, 6))
+sns.barplot(
+    data=top_occ.head(20),
+    x="cluster_name",
+    y="soc_pct",
+    palette="viridis"
 )
-
-
+plt.xticks(rotation=45, ha="right")
+plt.title("Top 20 Occupations by AI Penetration (soc_pct)")
+plt.tight_layout()
+plt.show()
 
 # ---------------------------------------------------------
-# 6. Plot automation vs augmentation by category
+# 6. Save results
 # ---------------------------------------------------------
+top_occ.to_csv("results/top_occupations_by_soc_pct.csv", index=False)
+
+print("\nSaved: results/top_occupations_by_soc_pct.csv")
 
 plt.figure(figsize=(10,6))
+sns.histplot(occ_stats["soc_pct"], bins=30, kde=True)
+plt.title("Distribution of AI Penetration Across Occupations")
+plt.xlabel("soc_pct")
+plt.ylabel("Count")
+plt.show()
+
+bottom_occ = occ_stats.sort_values("soc_pct", ascending=True)
+print(bottom_occ.head(20))
+
+group_stats = (
+    occ_stats
+    .groupby("cluster_name")["soc_pct"]
+    .mean()
+    .sort_values(ascending=False)
+)
+
+print(group_stats)
+
+plt.figure(figsize=(12,6))
 sns.barplot(
-    data=category_stats.melt(
-        id_vars="Task_Type",
-        value_vars=["automation_pct", "augmentation_pct"],
-        var_name="metric",
-        value_name="pct"
-    ),
-    x="Task_Type",
-    y="pct",
-    hue="metric"
+    x=group_stats.index,
+    y=group_stats.values,
+    palette="magma"
 )
 plt.xticks(rotation=45, ha="right")
-plt.title("Automation vs Augmentation by O*NET Task Category")
+plt.title("Average AI Penetration by Occupation Group")
 plt.tight_layout()
 plt.show()
 
-# ---------------------------------------------------------
-# 7. Plot automation/augmentation ratio
-# ---------------------------------------------------------
+q1 = occ_stats["soc_pct"].quantile(0.25)
+q3 = occ_stats["soc_pct"].quantile(0.75)
+iqr = q3 - q1
 
-plt.figure(figsize=(10,5))
-sns.barplot(
-    data=category_stats,
-    x="Task_Type",
-    y="automation_to_augmentation_ratio"
+upper = q3 + 1.5 * iqr
+lower = q1 - 1.5 * iqr
+
+outliers = occ_stats[(occ_stats["soc_pct"] > upper) | (occ_stats["soc_pct"] < lower)]
+print(outliers)
+
+country = aei[aei["facet"] == "country"].copy()
+
+country_stats = (
+    country
+    .pivot_table(
+        index="geo_name",
+        columns="variable",
+        values="value",
+        aggfunc="mean"
+    )
+    .reset_index()
 )
-plt.xticks(rotation=45, ha="right")
-plt.title("Automation/Augmentation Ratio by Task Category")
-plt.tight_layout()
+
+print(country_stats.head())
+
+plt.figure(figsize=(10,6))
+sns.scatterplot(
+    data=occ_stats,
+    x="soc_pct",
+    y="soc_pct",  # placeholder until we merge with country data
+    hue="cluster_name"
+)
+plt.title("AI Penetration Patterns")
 plt.show()
 
-# ---------------------------------------------------------
-# 8. Identify top automated + top augmented categories
-# ---------------------------------------------------------
 
-top_auto = category_stats.sort_values("automation_pct", ascending=False)
-top_aug = category_stats.sort_values("augmentation_pct", ascending=False)
-
-print("Top Automated Categories:")
-print(top_auto.head(10))
-
-print("\nTop Augmented Categories:")
-print(top_aug.head(10))
-
-# ---------------------------------------------------------
-# 9. Save results
-# ---------------------------------------------------------
-
-category_stats.to_csv("results/task_category_stats.csv", index=False)
-
-print(onet.head())
-print(onet["cluster_name"].head())
