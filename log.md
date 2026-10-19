@@ -33,36 +33,26 @@ Average AI Penetration by Occupation Group
 ## Next step: check what the percentage variables mean in each release to see if they can actually be compared.
 
 
-## 10/05-10/19
+### 10/05–10/19
 
--Reviewed the AEI data documentation for September 2025, January 2026, March 2026, and June 2026.
+- Compared February and March 2025 task datasets. Found that February and March V1 contain identical data, while March V2 differs.
+- Selected March 2025 V2 as the provisional dataset based on the release documentation.
+- Created and updated `check_task_overlap.py` to compare shared O*NET task names across AEI releases.
+- Calculated task overlap across releases and standardized task names to identify matches with June 2026.
+- Reviewed AEI documentation for September 2025, January 2026, March 2026, and June 2026 to understand task usage percentage definitions.
+- Found that September 2025, January 2026, and March 2026 use the same documented percentage definition, while June 2026 uses a similar definition.
+- Identified differences in dataset structures, Claude product coverage, and O*NET task classifications that may affect comparisons.
+- Investigated June 2026's O*NET hierarchy and determined that `hierarchy_level = 0` represents individual tasks.
+- Found that the June 2026 release contains separate April and May observations.
+- Filtered June data to global O*NET task-level records and found 2,410 task IDs in April and 2,713 in May.
+- Compared April and May task IDs and found that 2,300 appeared in both months.
+- Checked occupation-level data availability and found that occupation records are not consistently available across all releases.
+- Identified shared task IDs as a starting point for comparing task usage percentages.
 
--Checked how task usage percentages are defined across the different releases.
+### Next Steps
 
--Found that September 2025, January 2026, and March 2026 use the same documented percentage definition. June 2026 uses a similar definition.
-
--Found some differences between releases, including changes in dataset structure, available Claude products, and task categories.
-
--Learned that June 2026 includes both April and May data, so these months need to be analyzed separately.
-
--Filtered June's dataset to look only at global O*NET tasks.
-
--Found 2,410 task IDs in April and 2,713 in May.
-
--Compared task IDs between the two months and found that 2,300 appeared in both.
-
--Decided to use matching task IDs to compare April and May task percentages.
-
-## Next steps
-
--Check for duplicate task IDs and missing percentage values.
-
--Compare task usage percentages between April and May.
-
--Continue checking which tasks and occupations can be compared across releases.
-
--Prepare a cleaned dataset for the analysis.
-
-
-
-
+- Check for duplicate task IDs and missing percentage values.
+- Compare actual task usage percentages between April and May 2026.
+- Continue verifying comparability across releases, including differences in measurement methods and task classifications.
+- Investigate occupation-level comparisons where data is available.
+- Prepare a cleaned, harmonized dataset for the final analysis.
