@@ -7,7 +7,7 @@ FILES = {
         "task_name"
     ),
     "Mar 2025": (
-        Path("data/release_2025_03_27/task_pct_v1.csv"),
+        Path("data/release_2025_03_27/task_pct_v2.csv"),
         "task_name"
     ),
     "Sep 2025": (
@@ -72,3 +72,35 @@ for i in range(len(releases)):
             f"{release_a} vs {release_b}: "
             f"{len(shared)} shared tasks"
         )
+ # June 2026
+june = pd.read_csv(
+    "data/release_2026_06_26/aei_claude_ai_2026-06-26.csv",
+    low_memory=False
+)
+
+# Keep only O*NET task percentage records
+june_tasks = june[
+    (june["category_name"] == "onet") &
+    (june["metric_id"] == "pct")
+]
+
+# Get unique task names
+# Get June task names using consistent formatting
+june_task_names = set(
+    june_tasks["node_name"]
+    .dropna()
+    .astype(str)
+    .str.strip()
+    .str.lower()
+)
+
+print("June 2026 unique tasks:", len(june_task_names))
+
+# Compare June 2026 with the earlier releases
+print("\n" + "=" * 60)
+print("JUNE 2026 TASK OVERLAP")
+print("=" * 60)
+
+for release_name, task_names in task_sets.items():
+    shared = june_task_names & task_names
+    print(f"{release_name} vs Jun 2026: {len(shared)} shared tasks")

@@ -151,3 +151,45 @@ Building and Grounds Cleaning                0.126631
 Protective Service                           0.159052
 Transportation and Material Moving           0.177936
 Healthcare Support                           0.194366
+
+
+
+
+## Exploratory Data Analysis (EDA) of task coverage and overlap across releases
+
+
+
+### 1. Task Coverage Across Releases
+
+![Task Counts by Release](figures/task_counts_by_release.png)
+
+This chart shows the number of unique O*NET task names
+identified in each release during initial exploration.
+
+These counts are not directly comparable because
+the releases differ in dataset structure and hierarchy.
+
+### 2. April vs May 2026 Task Coverage
+
+![April vs May Task Counts](figures/april_may_task_counts.png)
+
+April 2026 contained 2,410 published global task IDs,
+while May 2026 contained 2,713.
+
+This represents a 12.6% increase in published task
+coverage, not necessarily an increase in Claude usage.
+
+### 3. April vs May 2026 Task Overlap
+
+![April vs May Task Overlap](figures/april_may_task_overlap.png)
+
+Of the published task IDs:
+- 2,300 appeared in both months.
+- 110 appeared only in April.
+- 413 appeared only in May.
+
+Approximately 95.4% of April's published task IDs
+also appeared in May.
+
+These findings establish preliminary task coverage
+and identify matching tasks for later analysis.
