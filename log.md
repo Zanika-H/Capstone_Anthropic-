@@ -169,5 +169,4 @@ Alternative Hypothesis (H₁): There is a systematic change in the distribution 
 
 -Select and conduct appropriate statistical tests after confirming measurement comparability.
 
--ocument limitations and begin drafting the results and methodology sections.
->>>>>>> 64caae2 (Build five-period longitudinal dataset and validate task data)
+
