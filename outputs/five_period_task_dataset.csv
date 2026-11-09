@@ -1,0 +1,874 @@
+task_key,aug_2025_pct,nov_2025_pct,feb_2026_pct,apr_2026_pct,may_2026_pct
+adapt the quantity of ingredients to match the amount of items to be baked.,0.0019699448622801,0.0050006250781347,0.0086,0.0,0.0
+"adapt translations to students' cognitive and grade levels, collaborating with educational team members as necessary.",0.0072576915978741,0.0077009626203275,0.0078,0.0,0.0
+"address the relationships of quantities, magnitudes, and forms through the use of numbers and symbols.",0.1073101543399958,0.1427178397299662,0.1038999999999999,0.01,0.01
+adjust sales scripts to better target the needs and interests of specific individuals.,0.0032141205647728,0.0054006750843855,0.0141,0.22,0.22
+"administer, proctor, or score academic or diagnostic assessments.",0.0191810420800958,0.0227028378547318,0.0242,0.0,0.0
+advise and teach students.,0.0185589542288495,0.0665083135391924,0.0422,0.15,0.17
+"advise animal owners regarding sanitary measures, feeding, general care, medical conditions, or treatment options.",0.030067579476907,0.0318039754969371,0.039,0.01,0.01
+"advise business or other groups on local, national, or international factors affecting the buying or selling of products or services.",0.0087092299174489,0.0037004625578197,0.0053,0.11,0.12
+advise clients about colors and types of makeup and instruct them in makeup application techniques.,0.0020736261708211,0.0048006000750093,0.0068,0.0,0.0
+"advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",0.0349406009783368,0.027903487935992,0.031,0.24,0.26
+advise clients on how they could be helped by counseling.,0.0568173570805002,0.0463057882235279,0.0462,0.01,0.01
+"advise clients or respond to inquiries about financial matters in person or via phone, email, web site, or internet chat.",0.0022809887879032,0.0018002250281285,0.0023,1.26,1.37
+advise corporations on issues involving corporate image projects or problems.,0.0104718121626469,0.0061007625953244,0.0066,0.01,0.01
+advise customers on product usage to improve production.,0.0019699448622801,0.0070008751093886,0.0071,0.02,0.03
+advise customers on use and care of merchandise.,0.0047693401928887,0.0097012126515814,0.0103,0.38,0.46
+"advise management concerning personnel, managerial, and marketing policies and practices and their potential effects on organizational effectiveness and efficiency.",0.051218566419283,0.055806975871984,0.0869,0.08,0.08
+"advise management on organizing, preparing, or implementing recruiting or retention programs.",0.0024883514049854,0.0023002875359419,0.0046,0.01,0.01
+"advise management on short-term and long-term financial objectives, policies, and actions.",0.0019699448622801,0.0029003625453181,0.0039,0.04,0.04
+advise or assist in obtaining patents or meeting other legal requirements.,0.0184552729203084,0.0090011251406425,0.0085,0.02,0.02
+"advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",0.0210473056338349,0.0375046880860107,0.0352,0.0,0.0
+advise producers about improved products and techniques that could enhance their animal production efforts.,0.0015552196281158,0.0025003125390673,0.0036,0.0,0.0
+"advise project teams on subjects such as premarket regulatory requirements, export and labeling requirements, or clinical study compliance issues.",0.0038362084160191,0.0027003375421927,0.0046999999999999,0.01,0.01
+advise students on academic and vocational curricula and career issues.,0.0238467009644435,0.02560320040005,0.0177,0.01,0.01
+advise students on academic and vocational curricula and on career issues.,0.0742358169153981,0.2366295786973371,0.2155999999999999,0.06,0.07
+"advise students on academic and vocational curricula, and on career issues.",0.0263350523694289,0.0378047255906988,0.0265,0.02,0.02
+"advise students on academic and vocational curricula, career issues, and laboratory and field research.",0.0192847233886369,0.0060007500937617,0.0068,0.01,0.0
+"advise students on course selection, career decisions, and other academic and vocational concerns.",0.0132712074932555,0.0058007250906363,0.0044,0.04,0.05
+"advise students on internships, prospective employers, and job placement services.",0.0027993953306085,0.0136017002125265,0.0158999999999999,0.01,0.01
+"advise students on issues such as course selection, progress toward graduation, and career decisions.",0.0100570869284827,0.0228028503562945,0.0238,0.38,0.41
+"allocate print space for story text, photos, and illustrations according to space parameters and copy significance, using knowledge of layout principles.",0.0015552196281158,0.0024003000375046,0.0025,0.0,0.0
+analyze all aspects of corporate logistics to determine the most cost-effective or efficient means of transporting products or supplies.,0.0059098345868403,0.0052006500812601,0.0051,0.0,0.0
+"analyze and interpret patients' histories, symptoms, physical findings, or diagnostic information to develop appropriate diagnoses.",0.0677038944773114,0.02820352544068,0.0419,0.01,0.01
+"analyze and recommend chemical, biological, or other wastewater treatment methods to prepare water for industrial or domestic use.",0.0026957140220675,0.0055006875859482,0.0036,0.0,0.0
+"analyze and record test data to issue reports that use charts, graphs, or narratives.",0.0400209850968487,0.0183022877859732,0.0145,0.0,0.0
+analyze and report computer network security breaches or attempted breaches.,0.0217730747936223,0.0395049381172646,0.0561,0.01,0.01
+"analyze building codes, by-laws, space and site requirements, and other technical documents and reports to determine their effect on architectural designs.",0.0029030766391496,0.0042005250656332,0.0053,0.0,0.0
+"analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",0.0294454916256607,0.0398049756219527,0.0457,0.05,0.05
+analyze characteristics of animals to identify and classify them.,0.1344746571777533,0.0250031253906738,0.0286,0.01,0.01
+"analyze competitive market strategies through analysis of related product, market, or share trends.",0.0149301084299124,0.0124015501937742,0.0192,0.02,0.02
+analyze credit data and financial statements to determine the degree of risk involved in extending credit or lending money.,0.0025920327135264,0.0048006000750093,0.0073,0.0,0.0
+analyze data to determine answers to questions from customers or members of the public.,0.0078797794491204,0.007200900112514,0.0167,0.28,0.29
+"analyze electronics system requirements, capacity, cost, or customer needs to determine project feasibility.",0.0095386803857774,0.0031003875484435,0.0053,0.0,0.0
+analyze employment-related data and prepare required reports.,0.0027993953306085,0.0023002875359419,0.0023,0.0,0.0
+analyze equipment performance records to assess equipment functioning.,0.005287746735594,0.0076009501187648,0.0085,0.0,0.0
+analyze existing development or manufacturing procedures and suggest improvements.,0.0030067579476907,0.0017002125265658,0.0018,0.14,0.13
+"analyze expenditures and other financial information to develop plans, policies, or budgets for increasing profits or improving services.",0.010679174779729,0.004900612576572,0.0085,0.08,0.09
+analyze experimental data and interpret results to write reports and summaries of findings.,0.1315715805386036,0.11651456432054,0.0948,0.05,0.05
+analyze financial activities of establishments or departments and provide input into budget planning and preparation processes.,0.0030067579476907,0.0034004250531316,0.0026,0.03,0.03
+analyze financial information obtained from clients to determine strategies for meeting clients' financial objectives.,0.0973567487200542,0.0858107263407925,0.1537,0.0,0.0
+analyze financial or operational performance of companies facing financial difficulties to identify or recommend remedies.,0.0048730215014297,0.0086010751343918,0.0075,0.0,0.0
+analyze information obtained from management to conceptualize and define operational problems.,0.0739247729897749,0.0527065883235404,0.0754,0.03,0.04
+"analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",0.0312080738708587,0.011801475184398,0.0141,0.03,0.03
+"analyze information to determine, recommend, and plan layout, including type of computers and peripheral equipment modifications.",0.1175746038855607,0.1949243655456932,0.2285999999999999,0.0,0.0
+"analyze network data to determine network usage, disk space availability, or server function.",0.0049767028099708,0.0053006625828228,0.0073,0.0,0.0
+"analyze operations to evaluate performance of a company or its staff in meeting objectives or to determine areas of potential cost reduction, program improvement, or policy change.",0.1776060815308338,0.231428928616077,0.2862,0.13,0.13
+"analyze or interpret logistics data involving customer service, forecasting, procurement, manufacturing, inventory, transportation, or warehousing.",0.0043546149587244,0.0050006250781347,0.005,0.0,0.0
+analyze or synthesize client data to draw conclusions or make recommendations for therapy.,0.0108865373968111,0.012801600200025,0.0109,0.05,0.05
+"analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",0.2551597003195457,0.1670208776097012,0.1406,0.0,0.0
+"analyze organizational, occupational, and industrial data to facilitate organizational functions and provide technical information to business, industry, and government.",0.1014003197531555,0.0324040505063132,0.0518,0.0,0.0
+analyze patrons' hair and other physical features to determine and recommend beauty treatment or suggest hair styles.,0.0205288990911296,0.0258032254031753,0.0308,0.01,0.01
+"analyze performance data to determine effectiveness of instructional systems, courses, or instructional materials.",0.0067392850551688,0.0121015126890861,0.0081,0.0,0.0
+"analyze price proposals, financial reports, and other data and information to determine reasonable prices.",0.007154010289333,0.0027003375421927,0.0046,0.0,0.0
+analyze problems to develop solutions involving computer hardware and software.,0.0205288990911296,0.0075009376172021,0.0073,0.05,0.05
+"analyze records, reports, test results, or examination information to diagnose medical condition of patient.",0.0791088384168278,0.0473059132391548,0.0525,0.0,0.0
+"analyze research data to determine its significance, using computers.",0.0354590075210421,0.0134016752094011,0.0105,0.08,0.08
+analyze statistical data and reports to identify and determine causes of personnel problems and develop recommendations for improvement of organization's personnel policies and practices.,0.0026957140220675,0.0017002125265658,0.002,0.0,0.0
+analyze system performance or operational requirements.,0.1192335048222176,0.0626078259782472,0.0686,0.09,0.09
+analyze test results and develop a treatment plan.,0.0030067579476907,0.0023002875359419,0.003,0.0,0.0
+"analyze the financial details of past, present, and expected operations to identify development opportunities and areas where improvement is needed.",0.0110939000138932,0.0076009501187648,0.0104,0.02,0.02
+"analyze the probable outcomes of cases, using knowledge of legal precedents.",0.0037325271074781,0.0052006500812601,0.0063,0.01,0.01
+analyze training needs to develop new training programs or modify and improve existing programs.,0.0069466476722509,0.0038004750593824,0.0046999999999999,0.0,0.0
+"analyze trends in sales prices, construction costs, and rents, to assess property values or determine the accuracy of assessments.",0.0090202738430721,0.0040005000625078,0.0093999999999999,0.01,0.01
+analyze user needs and recommend appropriate hardware.,0.0102644495455648,0.0084010501312664,0.0088,0.02,0.02
+analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.7673453645123764,0.4643580447555944,0.5670999999999999,0.01,0.01
+"analyze, estimate, or report production costs.",0.0015552196281158,0.00260032504063,0.0018,0.03,0.03
+"analyze, interpret, or disseminate system performance data.",0.0524627421217757,0.0206025753219152,0.0299,0.02,0.02
+answer applicants' questions about benefits and claim procedures.,0.0135822514188787,0.0089011126390798,0.0089,0.01,0.01
+"answer clients' questions regarding construction work, financing, maintenance, repairs, and appraisals.",0.0026957140220675,0.0085010626328291,0.0144,0.0,0.0
+"answer customer inquiries or explain cost, availability, policies, and procedures of facilities.",0.010575493471188,0.0038004750593824,0.0086,0.53,0.56
+answer customers' questions about merchandise and advise customers on merchandise selection.,0.022913569187574,0.0285035629453681,0.0328,0.04,0.05
+answer customers' questions about postal services and regulations.,0.001866263553739,0.003600450056257,0.0042,0.0,0.0
+"answer customers' questions about products, prices, availability, or credit terms.",0.2532934367658067,0.2860357544693087,0.4174,0.18,0.21
+"answer customers' questions about products, prices, availability, product uses, and credit terms.",0.1396587226048062,0.1258157269658707,0.178,0.06,0.07
+"answer customers' questions, and provide information on procedures or policies.",0.4930046221127347,0.5251656457057132,1.1683,0.78,0.82
+"answer inquiries from current or prospective customers regarding methods, materials, or price ranges.",0.0390878533199791,0.0394049256157019,0.0686,0.0,0.0
+"answer inquiries from the general public regarding judicial procedures, court appearances, trial dates, adjournments, outstanding warrants, summonses, subpoenas, witness fees, or payment of fines.",0.0033178018733138,0.0053006625828228,0.0059,0.0,0.0
+"answer inquiries pertaining to hotel policies and services, and resolve occupants' complaints.",0.0027993953306085,0.0055006875859482,0.0065,0.0,0.0
+"answer inquiries pertaining to hotel services, guest registration, and travel directions, or make recommendations regarding shopping, dining, or entertainment.",0.0166926906751104,0.0155019377422177,0.0185,0.0,0.0
+"answer passengers' questions about flights, aircraft, weather, travel routes and services, arrival times, or schedules.",0.0027993953306085,0.0050006250781347,0.0052,0.0,0.01
+answer questions about product features and benefits.,0.0419909299591288,0.0928116014501812,0.1224,0.32,0.35
+answer questions about records or files.,0.0069466476722509,0.0133016627078384,0.0207,0.0,0.0
+answer questions and provide future tax planning to clients.,0.0058061532782992,0.0034004250531316,0.0033,0.0,0.0
+"answer questions or provide advice to the public regarding licensing policies, procedures, or regulations.",0.0127528009505502,0.013101637704713,0.0114,0.01,0.02
+"answer questions regarding examinations, eligibility, salaries, benefits, and other pertinent information.",0.0067392850551688,0.0207025878234779,0.0197,0.0,0.01
+answer questions regarding the store and its merchandise.,0.0061171972039224,0.0174021752719089,0.0467,0.0,0.01
+answer telephone calls and respond to inquiries or transfer calls.,0.005287746735594,0.0019002375296912,0.0015999999999999,0.09,0.1
+answer user inquiries regarding computer software or hardware operation to resolve problems.,0.0128564822590912,0.025903237904738,0.0365,2.06,1.98
+"apply mathematical or statistical techniques to address practical issues in finance, such as derivative valuation, securities trading, risk management, or financial market regulation.",0.0276829093804627,0.0125015626953369,0.0116,0.0,0.0
+"apply relevant laws, regulations, policies, or precedents to reach conclusions.",0.0104718121626469,0.005900737592199,0.0044,0.05,0.05
+"apply story development, directing, cinematography, and editing to animation to create storyboards that show the flow of the animation and map out key scenes and characters.",0.0039398897245602,0.0024003000375046,0.0034,0.0,0.01
+"appraise property values, assessing income potential when relevant.",0.012338075716386,0.0172021502687836,0.023,0.0,0.0
+ask questions that will help clients identify their feelings and behaviors.,0.0096423616943184,0.0206025753219152,0.0208,0.21,0.21
+assess nature and extent of illness or injury to establish and prioritize medical procedures.,0.0037325271074781,0.0015001875234404,0.0015,0.0,0.0
+assess the usefulness of pre-developed application packages and adapt them to a user environment.,0.3527238116566821,0.3219402425303163,0.3785,0.01,0.01
+assign or schedule tasks to meet work priorities and goals.,0.0024883514049854,0.0054006750843855,0.0028,0.0,0.0
+assist customers by providing information and resolving their complaints.,0.0235356570388203,0.072209026128266,0.0804,0.07,0.08
+assist in laying out material for publication.,0.0101607682370237,0.0126015751968996,0.0121999999999999,0.01,0.01
+assist patients in organizing their health care system activities.,0.0021773074793622,0.0080010001250156,0.0083,0.01,0.01
+assist students who need extra help with their coursework outside of class.,1.2004221902883794,2.734741842730341,1.9697,0.17,0.18
+"assist students who need extra help, such as by tutoring and preparing and implementing remedial programs.",0.0024883514049854,0.0043005375671959,0.0034,0.01,0.01
+"bake, roast, broil, and steam meats, fish, vegetables, and other foods.",0.0029030766391496,0.0084010501312664,0.0112,0.0,0.0
+build and update digital databases.,0.0060135158953814,0.004900612576572,0.005,0.01,0.01
+"calculate and quote rates for tours, stocks, insurance policies, or other products or services.",0.0079834607576615,0.0027003375421927,0.004,0.0,0.0
+"calculate costs of materials, overhead, and other expenses, based on estimates, quotations and price lists.",0.0045619775758065,0.0017002125265658,0.0017,0.0,0.01
+"calculate figures, such as required amounts of labor or materials, manufacturing costs, or wages, using pricing schedules, adding machines, calculators, or computers.",0.0150337897384535,0.004900612576572,0.0058,0.0,0.01
+"calculate, prepare, and issue bills, invoices, account statements, and other financial statements according to established procedures.",0.0031104392562317,0.0050006250781347,0.0068,0.0,0.0
+"calculate, review, and correct errors on interest, principal, payment, and closing costs, using computers or calculators.",0.0044582962672655,0.0047005875734466,0.0049,0.0,0.0
+"check completed work for spelling, grammar, punctuation, and format.",0.0135822514188787,0.015401925240655,0.0152,0.07,0.08
+"check construction plans, design calculations, or cost estimations to ensure completeness, accuracy, or conformity to engineering standards or practices.",0.0032141205647728,0.0029003625453181,0.003,0.0,0.01
+"check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.",0.0040435710331012,0.0070008751093886,0.0083,0.01,0.01
+"choose subject matter and suitable form to express personal feelings and experiences or ideas, or to narrate stories or events.",0.0082945046832847,0.0099012376547068,0.0073,0.16,0.17
+classify and catalog items according to content and purpose.,0.0131675261847144,0.0075009376172021,0.0062,0.01,0.01
+"classify, record, and summarize numerical and financial data to compile and keep financial records, using journals and ledgers or computers.",0.0293418103171196,0.0418052256532066,0.0501,0.01,0.01
+coach client representatives in effective communication with the public or with employees.,0.0166926906751104,0.0176022002750343,0.0185,0.05,0.05
+coach senior executives and managers on leadership and performance.,0.010575493471188,0.0138017252156519,0.0157,0.0,0.0
+"code, evaluate, or interpret collected study data.",0.0633492795185869,0.0731091386423302,0.0225,0.04,0.03
+"collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",0.0492486215570029,0.0702087760970121,0.0949,0.02,0.02
+"collect and analyze data, such as studying old records, tallying the number of outpatients entering each day or week, or participating in federal, state, or local population surveys as a census enumerator.",0.0169000532921925,0.0016002000250031,0.003,0.0,0.0
+"collect and analyze web metrics, such as visits, time on site, page views per visit, transaction volume and revenue, traffic mix, click-through rates, conversion rates, cost per acquisition, or cost per click.",0.003525164490396,0.0042005250656332,0.005,0.01,0.01
+"collect business intelligence data from available industry reports, public information, field reports, or purchased sources.",0.0875070244086536,0.0382047755969496,0.0644,0.02,0.02
+"collect data about the attitudes, values, and behaviors of people in groups, using observation, interviews, and review of documents.",0.0037325271074781,0.0024003000375046,0.0039,0.0,0.0
+collect data through surveys or experimentation.,0.0234319757302792,0.0037004625578197,0.0055,0.0,0.0
+"collect information about clients through interviews, observation, or tests.",0.0162779654409462,0.0096012001500187,0.0096,0.03,0.03
+"collect information about individuals or clients, using interviews, case histories, observational techniques, and other assessment methods.",0.0055987906612171,0.0156019502437804,0.0146,0.07,0.06
+"communicate examination results or diagnostic information to referring physicians, patients, or families.",0.0040435710331012,0.0037004625578197,0.0073999999999999,0.0,0.0
+"communicate with children's parents or guardians about daily activities, behaviors, and related issues.",0.0024883514049854,0.0092011501437679,0.0083,0.0,0.0
+"communicate with customers, employees, and other individuals to answer questions, disseminate or explain information, take orders, and address complaints.",0.0058061532782992,0.0073009126140767,0.0103,0.02,0.02
+"communicate with readers, viewers, advertisers, or the general public via mail, email, or telephone.",0.0060135158953814,0.0030003750468808,0.0031999999999999,0.0,0.0
+compare a property with similar properties that have recently sold to determine its competitive market price.,0.0085018673003668,0.0045005625703212,0.0087,0.0,0.0
+"compare prices, specifications, and delivery dates to determine the best bid among potential suppliers.",0.0026957140220675,0.0045005625703212,0.0045,0.0,0.0
+compile and analyze data obtained from monitoring or diagnostic tests.,0.0207362617082117,0.0102012751593949,0.017,0.0,0.0
+compile and format image data to increase its usefulness.,0.0269571402206752,0.0148018502312789,0.0186999999999999,0.1,0.12
+compile and interpret results of tests and analyses.,0.0298602168598249,0.0077009626203275,0.0039,0.23,0.24
+compile and prepare reports and documents pertaining to personnel activities.,0.0025920327135264,0.0109013626703337,0.0121,0.0,0.0
+"compile and record medical charts, reports, or correspondence, using typewriter or personal computer.",0.0086055486089078,0.0068008501062632,0.0075,0.0,0.0
+"compile and study occupational, educational, and economic information to assist counselees in determining and carrying out vocational and educational objectives.",0.0446866439811963,0.0242030253781722,0.0373,0.08,0.09
+"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.6110976325410008,0.7387923490436304,0.7596999999999999,0.03,0.03
+"compile budget data and documents, based on estimated revenues and expenses and previous budgets.",0.0079834607576615,0.0135016877109638,0.0133,0.0,0.0
+compile laboratory test data and perform appropriate analyses.,0.005391428044135,0.0038004750593824,0.0029,0.01,0.01
+compile or develop materials to submit to granting or other funding organizations.,0.0149301084299124,0.0121015126890861,0.0146,0.0,0.0
+"compile reports, charts, or graphs that describe and interpret findings of analyses.",0.091654276750296,0.0579072384048005,0.0808,0.02,0.02
+"compile scripts, program notes, and other material related to productions.",0.003628845798937,0.0300037504688086,0.0282,0.0,0.0
+"compile statistical, financial, accounting, or auditing reports and tables pertaining to such matters as cash receipts, expenditures, accounts payable and receivable, and profits and losses.",0.0129601635676323,0.0242030253781722,0.0337,0.01,0.01
+"compile terminology and information to be used in translations, including technical terms such as those for legal or medical material.",0.0024883514049854,0.0071008876109513,0.0093999999999999,0.0,0.0
+"compile, administer, and grade examinations or assign this work to others.",0.0184552729203084,0.0083010376297037,0.0065,0.0,0.0
+"compile, administer, and grade examinations, or assign this work to others.",0.0678075757858524,0.1057132141517689,0.0791,0.0,0.01
+"compile, analyze, and report data to explain economic phenomena and forecast market trends, applying mathematical models and statistical techniques.",0.0258166458267236,0.0222027753469183,0.0329,0.0,0.0
+"compile, copy, sort, and file records of office activities, business transactions, and other activities.",0.0020736261708211,0.0025003125390673,0.004,0.0,0.01
+"compile, log, or record testing or operational data for review and further analysis.",0.0074650542149562,0.0099012376547068,0.0143,0.01,0.01
+"compile, record, and code results or data from interview or survey, using computer or specified form.",0.0303786234025302,0.0262032754094261,0.0299,0.01,0.01
+complete form letters in response to requests or problems identified by correspondence.,0.028304997231709,0.0469058632329041,0.0482999999999999,0.0,0.0
+"complete models and simulations, using manual or automated tools, to analyze or predict system performance under different operating conditions.",0.0272681841462984,0.1262157769721215,0.0721,0.0,0.0
+"complete work schedules, manage calendars, and arrange appointments.",0.0063245598210045,0.0274034254281785,0.0055,0.01,0.01
+compose and edit scripts or provide screenwriters with story outlines from which scripts can be written.,0.0179368663776031,0.032804100512564,0.0261,0.06,0.06
+"compose business correspondence for supervisors, managers, and professionals.",0.0550547748353022,0.0476059507438429,0.0555,0.78,0.76
+"compose descriptions of merchandise for posting to online storefront, auction sites, or other shopping web sites.",0.056506313154877,0.0737092136517064,0.0821,0.08,0.09
+compose explanatory summaries of contents of books and other reference materials.,0.0044582962672655,0.0085010626328291,0.0063,0.09,0.09
+"compose images of products, using video or still cameras, lighting equipment, props, or photo or video editing software.",0.0129601635676323,0.0454056757094636,0.0533,0.0,0.0
+"compose letters in reply to correspondence concerning such items as requests for merchandise, damage claims, credit information requests, delinquent accounts, incorrect billing, or unsatisfactory service.",0.2148276712970739,0.2050256282035254,0.2087,0.04,0.04
+compose songs or create vocal arrangements.,0.0025920327135264,0.017702212776597,0.0139,0.01,0.01
+"compute and analyze data, using statistical formulas and computers or calculators.",0.051114885110742,0.010801350168771,0.0067,0.25,0.27
+compute and record totals of transactions.,0.0030067579476907,0.0085010626328291,0.0068,0.0,0.0
+"compute and verify totals on report forms, requisitions, or bills, using adding machine or calculator.",0.0029030766391496,0.0027003375421927,0.0046999999999999,0.01,0.02
+"compute dimensions, areas, volumes, and weights.",0.1564550945884577,0.0431053881735216,0.0346,0.02,0.02
+"compute figures such as balances, totals, or commissions.",0.0079834607576615,0.0093011626453306,0.0101,0.15,0.18
+"compute financial fees, interest, and service charges.",0.0015552196281158,0.0040005000625078,0.0059,0.01,0.01
+"compute wages and deductions, and enter data into computers.",0.0049767028099708,0.0053006625828228,0.0055,0.01,0.01
+conduct economic or commercial surveys to identify potential markets for products or services.,0.0062208785124635,0.0044005500687585,0.0069999999999999,0.0,0.0
+"conduct historical research, and publish or present findings and theories.",0.0429240617359983,0.0343042880360045,0.0272,0.0,0.0
+"conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",0.3309507368630598,0.3806475809476184,0.5035999999999999,0.0,0.0
+"conduct market research analysis to identify search query trends, real-time search and news media activity, popular social media topics, electronic commerce trends, market opportunities, or competitor performance.",0.0278902719975448,0.0076009501187648,0.0116,0.02,0.02
+conduct market research and analyze industry trends.,0.0277865906890037,0.0112014001750218,0.0136,0.04,0.04
+"conduct nutritional assessments of individuals, including obtaining and evaluating individuals' dietary histories, to plan nutritional programs.",0.0174184598348978,0.0193024128016001,0.0226,0.01,0.01
+conduct quality analyses of data inputs and resulting analyses or predictions.,0.007154010289333,0.0070008751093886,0.005,0.08,0.08
+"conduct reference searches, using printed materials and in-house and online databases.",0.0596167524111088,0.020002500312539,0.0215999999999999,1.31,1.38
+"conduct research in a particular field of knowledge and present findings in professional journals, books, electronic media, or at professional conferences.",0.1241065263236474,0.0213026628328541,0.0231,0.0,0.0
+"conduct research in a particular field of knowledge and publish findings in books, professional journals, or electronic media.",0.0824266402901417,0.010501312664083,0.013,0.0,0.0
+"conduct research in a particular field of knowledge and publish findings in professional journals, books, or electronic media.",0.2263362965451314,0.1388173521690211,0.1489,0.0,0.0
+"conduct research in a particular field of knowledge and publish findings in scholarly journals, books, or electronic media.",0.0684296636370988,0.0079009876234529,0.0084,0.0,0.0
+"conduct research to determine best methods of planting, spraying, cultivating, harvesting, storing, processing, or transporting horticultural products.",0.0022809887879032,0.0029003625453181,0.0026999999999999,0.0,0.0
+"conduct research to develop methodologies, instrumentation, and procedures for medical application, analyzing data and presenting findings to the scientific audience and general public.",0.0047693401928887,0.0023002875359419,0.0021,0.0,0.0
+"conduct research, compile data, and prepare papers for consideration and presentation by executives, committees, and boards of directors.",0.0696738393395915,0.053506688336042,0.0654,0.05,0.05
+conduct safety training or education programs and demonstrate the use of safety equipment.,0.0021773074793622,0.0035004375546943,0.0026,0.0,0.0
+"conduct searches to find needed information, using such sources as the internet.",0.4058086416297042,0.2365295661957744,0.4152,0.09,0.1
+"conduct surveys and collect data, using methods such as interviews, questionnaires, focus groups, market analysis surveys, public opinion polls, literature reviews, and file reviews.",0.0321412056477282,0.0022002750343792,0.0053,0.01,0.01
+"confer with board members, organization officials, or staff members to discuss issues, coordinate activities, or resolve problems.",0.0051840654270529,0.0212026503312914,0.0242,0.0,0.0
+confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,0.6287234549929808,0.534766845855732,0.8063,0.0,0.0
+"confer with clients to determine objectives, budget, background information, and presentation approaches, styles, and techniques.",0.0099534056199416,0.020002500312539,0.0484,0.03,0.03
+"confer with clients to develop strategies for their careers, and to explain actions taken on their behalf.",0.0856407608549146,0.085010626328291,0.1142,0.0,0.0
+"confer with clients, editors, writers, art directors, and other interested parties regarding the nature and content of artwork to be produced.",0.0022809887879032,0.0076009501187648,0.0127999999999999,0.0,0.0
+"confer with company officials to develop methods and procedures to increase sales, expand markets, and promote business.",0.0096423616943184,0.0159019877484685,0.0264,0.01,0.01
+confer with customers and engineers to assess equipment needs and to determine system requirements.,0.0171074159092747,0.0333041630203775,0.0433,0.0,0.0
+"confer with customers by telephone or in person to provide information about products or services, take or enter orders, cancel accounts, or obtain details of complaints.",0.001866263553739,0.0258032254031753,0.0337,0.06,0.06
+confer with customers to assess customer needs or obtain feedback.,0.0092276364601542,0.0202025253156644,0.036,0.09,0.07
+confer with customers to determine how to tailor materials to their needs.,0.0042509336501834,0.0079009876234529,0.0116,0.03,0.03
+confer with customers to determine project requirements or to provide cost estimates.,0.0029030766391496,0.0019002375296912,0.0116,0.0,0.0
+"confer with staff, users, and management to establish requirements for new systems or modifications.",0.0041472523416423,0.0028003500437554,0.0077,0.0,0.0
+"confer with users to analyze, configure, or troubleshoot applications.",0.0023846700964443,0.0018002250281285,0.0036,0.69,0.64
+configure security settings or access permissions for groups or individuals.,0.0167963719836515,0.0228028503562945,0.0243999999999999,0.01,0.01
+configure servers to meet functional specifications.,0.1567661385140809,0.1661207650956369,0.1596999999999999,0.02,0.02
+"consult with and advise physicians, educators, researchers, government health officials and others regarding medical applications of sciences, such as physics, biology, and chemistry.",0.0709180150420842,0.0150018752344043,0.0193,0.0,0.0
+"consult with customers or other departments on project status, proposals, or technical issues, such as software system design or maintenance.",0.022913569187574,0.0218027253406675,0.0281,0.04,0.04
+"consult with researchers to analyze problems, recommend technology-based solutions, or determine computational strategies.",0.0275792280719216,0.0139017377172146,0.0278,0.13,0.12
+contact job applicants to inform them of the status of their applications.,0.0061171972039224,0.0178022252781597,0.0154,0.0,0.0
+contact new or existing customers to discuss how specific products or services can meet their needs.,0.0078797794491204,0.0366045755719464,0.0663,0.01,0.01
+contact prospective customers to present information and explain available services.,0.0057024719697582,0.0183022877859732,0.0394,0.01,0.01
+"converse with customer to determine destination, mode of transportation, travel dates, financial considerations, and accommodations required.",0.00881291122599,0.0075009376172021,0.0109,0.01,0.0
+"convert various types of files for printing or for the internet, using computer software.",0.0289270850829554,0.0041005125640705,0.0042,0.19,0.22
+"coordinate with developers to optimize web site architecture, server configuration, or page construction for search engine consumption and optimal visibility.",0.0139969766530429,0.0180022502812851,0.0148999999999999,0.0,0.0
+correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,2.1311692970614646,1.3571696462057758,0.8869999999999999,0.33,0.33
+"counsel and provide guidance to students regarding personal, academic, vocational, or behavioral issues.",0.0241577448900667,0.0565070633829228,0.0504,0.24,0.26
+"counsel clients on personal and family financial problems, such as excessive spending or borrowing of funds.",0.0474860393118049,0.0462057757219652,0.0664,0.02,0.02
+"counsel employees in work-related activities, personal growth, or career development.",0.0073613729064151,0.0052006500812601,0.0043,0.01,0.01
+"counsel individuals and groups on basic rules of good nutrition, healthy eating habits, and nutrition monitoring to improve their quality of life.",0.142872843169579,0.122415301912739,0.1583999999999999,0.1,0.11
+"counsel individuals or groups concerning their spiritual, emotional, or personal needs.",0.0293418103171196,0.0345043130391298,0.0369,0.08,0.09
+"counsel individuals regarding interpersonal, health, financial, or religious problems.",0.0570247196975823,0.0157019627453431,0.0226,0.69,0.73
+"counsel individuals, groups, or families to help them understand problems, deal with crisis situations, define goals, and develop realistic action plans.",0.0063245598210045,0.0058007250906363,0.0055,0.16,0.16
+"counsel patients about nutrition, exercise, sleeping habits, stress management, or other matters.",0.0055987906612171,0.0056007000875109,0.0066,0.15,0.16
+"counsel students regarding educational issues, such as course and program selection, class scheduling and registration, school adjustment, truancy, study habits, and career planning.",0.0233282944217382,0.0429053631703962,0.0404999999999999,0.01,0.02
+counsel women regarding the nutritional requirements of pregnancy.,0.001866263553739,0.0018002250281285,0.0028,0.0,0.0
+counsel workers about job and career-related issues.,0.1061696599460442,0.1416177022127765,0.1973,0.03,0.03
+"create business intelligence tools or systems, including design of related databases, spreadsheets, or outputs.",0.0149301084299124,0.0255031878984873,0.0468,0.02,0.02
+create client presentations of plan details.,0.0129601635676323,0.0099012376547068,0.0166,0.0,0.0
+create custom illustrations or other graphic elements.,0.0661486748491955,0.0545068133516689,0.0848,0.0,0.0
+"create debt management plans, spending plans, or budgets to assist clients to meet financial goals.",0.0447903252897374,0.053506688336042,0.0643,0.01,0.01
+"create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",0.0058061532782992,0.0021002625328166,0.003,0.03,0.03
+create developmentally appropriate lesson plans.,0.0107828560882701,0.0035004375546943,0.004,0.06,0.06
+create drink recipes.,0.0064282411295456,0.0030003750468808,0.0046,0.02,0.02
+"create marketing or outreach media, such as brochures or web sites, to communicate sustainability issues, procedures, or objectives.",0.0076724168320383,0.0024003000375046,0.0024,0.01,0.01
+create or administer training and awareness presentations or materials.,0.0022809887879032,0.0038004750593824,0.0033,0.03,0.03
+"create or revise user instructions, procedures, or manuals.",0.00881291122599,0.0081010126265783,0.0063999999999999,0.01,0.01
+"create supporting documentation, such as metadata and diagrams of entity relationships, business processes, and process flow.",0.0421982925762109,0.0543067883485435,0.0515999999999999,0.08,0.07
+"create, analyze, report, convert, or transfer data, using specialized applications program software.",0.1204776805247103,0.0180022502812851,0.0194,0.14,0.15
+"create, maintain, and enter information into databases.",0.0548474122182201,0.0412051506438304,0.0424,0.25,0.25
+"create, populate, or maintain databases for tracking validation activities, test results, or validated systems.",0.0110939000138932,0.0053006625828228,0.0034999999999999,0.0,0.0
+"define instructional, learning, or performance objectives.",0.0074650542149562,0.0053006625828228,0.012,0.02,0.02
+define or recommend model specifications or data collection methods.,0.0034214831818549,0.00260032504063,0.0038,0.03,0.03
+define the goals of the system and devise flow charts and diagrams describing logical operational steps of programs.,0.0645934552210796,0.1033129141142642,0.1069,0.03,0.03
+demonstrate correct use of exercise equipment or performance of exercise routines.,0.0057024719697582,0.0043005375671959,0.0068,0.01,0.01
+"demonstrate or explain products, methods, or services to persuade customers to purchase products or use services.",0.0062208785124635,0.0220027503437929,0.0234,0.0,0.0
+"describe merchandise and explain use, operation, and care of merchandise to customers.",0.0217730747936223,0.0369046130766345,0.0431999999999999,0.14,0.16
+"design and apply bioinformatics algorithms including unsupervised and supervised machine learning, dynamic programming, or graphic algorithms.",0.0072576915978741,0.0067008376047005,0.0053,0.0,0.0
+design and create special programs for tasks such as statistical analysis and data entry and cleaning.,0.1074138356485369,0.0415051881485185,0.0383,0.04,0.04
+design and implement warehouse database structures.,0.0171074159092747,0.0169021127640955,0.0162,0.0,0.0
+"design complex graphics and animation, using independent judgment, creativity, and computer equipment.",0.056402631846336,0.0639079884985623,0.0704,0.01,0.01
+"design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions.",0.0078797794491204,0.0046005750718839,0.0063999999999999,0.0,0.0
+"design customer interface of online storefront, using web programming or e-commerce software.",0.0038362084160191,0.0088011001375171,0.0138,0.01,0.01
+"design database applications, such as interfaces, data transfer mechanisms, global temporary tables, data partitions, and function-based indexes to enable efficient access of the generic database structure.",0.0998451001250396,0.1018127265908238,0.0745,0.01,0.01
+"design electronic components, software, products, or systems for commercial, industrial, medical, military, or scientific applications.",0.0144117018872071,0.0240030003750468,0.0142,0.01,0.01
+design instructional aids for stand-alone or instructor-led classroom or online use.,0.0107828560882701,0.0123015376922115,0.0102,0.11,0.12
+"design learning products, including web-based aids or electronic performance support systems.",0.0083981859918257,0.008201025128141,0.0092,0.01,0.01
+"design software to control robotic systems for applications, such as military defense or manufacturing.",0.0231209318046561,0.0301037629703713,0.0201,0.0,0.0
+"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",1.9832160697733736,1.9245405675709464,1.59,0.21,0.22
+"design, plan, organize, or direct orientation and training programs for employees or customers.",0.0083981859918257,0.0091011376422052,0.0103,0.01,0.01
+"design, program, or model geographic information systems (gis) applications or procedures.",0.0022809887879032,0.0028003500437554,0.0036,0.0,0.0
+determine and set product prices.,0.0043546149587244,0.005900737592199,0.0046999999999999,0.0,0.0
+"determine campaign strategies for media advertising, positions on issues, and public appearances.",0.0024883514049854,0.0038004750593824,0.0060999999999999,0.0,0.0
+"determine desired images and picture composition, selecting and adjusting subjects, equipment, and lighting to achieve desired effects.",0.0186626355373905,0.0395049381172646,0.0343,0.0,0.0
+"determine formats, approaches, content, levels, and mediums to effectively meet objectives within budgetary constraints, using research, knowledge, and training.",0.0034214831818549,0.0038004750593824,0.009,0.03,0.04
+"determine map content and layout, as well as production specifications such as scale, size, projection, and colors, and direct production to ensure that specifications are followed.",0.001762582245198,0.0017002125265658,0.0015,0.0,0.0
+"determine size and arrangement of illustrative material and copy, and select style and size of type.",0.0173147785263568,0.0234029253656707,0.0174,0.01,0.01
+"determine specific network hardware or software requirements, such as platforms, interfaces, bandwidths, or routine schemas.",0.0034214831818549,0.0019002375296912,0.0022,0.0,0.0
+"determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction.",0.0730953225214464,0.1177147143392924,0.1101,0.0,0.0
+determine which products or colors will improve clients' skin quality and appearance.,0.0027993953306085,0.0033004125515689,0.0031999999999999,0.0,0.0
+"develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",0.0040435710331012,0.0027003375421927,0.0045,0.0,0.0
+develop an understanding of customers' needs and take actions to ensure that such needs are met.,0.0055987906612171,0.005900737592199,0.0093,0.06,0.04
+"develop and distribute newsletters, brochures, or other printed materials to share information with patients or medical staff.",0.0059098345868403,0.0168021002625328,0.0147999999999999,0.01,0.02
+develop and document database architectures.,0.0428203804274573,0.0389048631078884,0.0339,0.02,0.02
+develop and document style guidelines for web site content.,0.0243651075071488,0.0357044630578822,0.043,0.02,0.02
+"develop and implement individualized treatment plans addressing family relationship problems, destructive patterns of behavior, and other personal issues.",0.0042509336501834,0.0068008501062632,0.0063999999999999,0.0,0.0
+develop and implement organizational policies and procedures for the facility or medical unit.,0.0050803841185118,0.0038004750593824,0.0042,0.0,0.0
+develop and implement policies and procedures for the operation of a department or establishment.,0.0135822514188787,0.0151018877359669,0.0177,0.01,0.01
+"develop and implement purchasing and contract management instructions, policies, and procedures.",0.0048730215014297,0.0027003375421927,0.0031,0.0,0.0
+"develop and maintain the company's corporate image and identity, which includes the use of logos and signage.",0.0585799393256982,0.1009126140767595,0.1178999999999999,0.03,0.03
+"develop and organize training manuals, multimedia visual aids, and other educational materials.",0.03525164490396,0.0632079009876234,0.0591999999999999,0.18,0.19
+"develop and test experimental designs, sampling techniques, and analytical methods.",0.0270608215292163,0.0205025628203525,0.0171,0.01,0.01
+develop application-specific software.,0.2723707975373616,0.1267158394799349,0.1084,0.06,0.06
+"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",0.546193133394298,0.3619452431553944,0.4192999999999999,0.01,0.01
+"develop business methods and procedures, including accounting systems, file systems, office systems, logistics systems, and production schedules.",0.0746505421495623,0.0725090636329541,0.0877,0.0,0.0
+"develop calibration methodologies, test methodologies, or tools.",0.0189736794630137,0.0032004000500062,0.0025,0.0,0.0
+develop concepts or creative ideas for craft objects.,0.0914469141332138,0.0399049881235154,0.0458999999999999,0.04,0.05
+"develop conceptual, logical, or physical network designs.",0.0049767028099708,0.0034004250531316,0.0021,0.0,0.0
+develop criteria for the design and modification of survey instruments.,0.0025920327135264,0.0046005750718839,0.0057,0.0,0.0
+develop curricula and plan course content and methods of instruction.,0.0861591673976198,0.05380672584073,0.0571,0.04,0.04
+"develop curricula, and recommend curricula revisions and additions.",0.0065319224380867,0.004900612576572,0.0056,0.0,0.0
+"develop customer documentation, such as performance specifications, training manuals, or operating instructions.",0.0023846700964443,0.0031003875484435,0.0058,0.02,0.01
+"develop data models for applications, metadata tables, views or related database structures.",0.0443756000555731,0.0357044630578822,0.0319,0.0,0.0
+develop databases that support web applications and web sites.,0.0098497243114005,0.0092011501437679,0.0065,0.0,0.0
+"develop exercise programs to improve participant strength, flexibility, endurance, or circulatory functioning, in accordance with exercise science standards, regulatory requirements, and credentialing requirements.",0.0339037878929262,0.0191023877984748,0.0312,0.04,0.05
+"develop graphics and layouts for product illustrations, company logos, and web sites.",0.0025920327135264,0.0052006500812601,0.0077,0.0,0.0
+"develop instructional materials, such as lesson plans, handouts, or examinations.",0.5891171951302964,0.7885985748218527,0.6117,0.55,0.61
+"develop manuals, texts, workbooks, or related materials for use in conjunction with production materials or for training.",0.015966921515323,0.0271033879234904,0.0197,0.21,0.23
+develop marketing or strategic plans for sales territories.,0.001866263553739,0.0039004875609451,0.0044,0.01,0.01
+develop marketing strategies to compete with other individuals or companies who sell insurance.,0.0029030766391496,0.0027003375421927,0.0031,0.0,0.0
+"develop master course documentation or manuals according to applicable accreditation, certification, or other requirements.",0.0022809887879032,0.0020002500312539,0.0022,0.02,0.02
+develop measurement tools to evaluate the effectiveness of instruction or training interventions.,0.0072576915978741,0.0146018252281535,0.0089,0.0,0.0
+"develop methods to improve employment policies, processes, and practices, and recommend changes to management.",0.0016589009366569,0.0034004250531316,0.0021,0.01,0.01
+"develop new business by contacting potential clients, making sales presentations, and writing proposals.",0.001866263553739,0.0066008251031378,0.0114,0.0,0.0
+develop new recipes for baked goods.,0.0095386803857774,0.0135016877109638,0.0169,0.02,0.02
+develop new software applications or customize existing applications to meet specific scientific project needs.,0.6234357082573868,0.3124390548818602,0.2886999999999999,0.17,0.17
+"develop or approve project plans, schedules, or budgets.",0.0044582962672655,0.0021002625328166,0.0022,0.02,0.02
+develop or direct development of offering documents or marketing materials.,0.0047693401928887,0.0022002750343792,0.0031999999999999,0.09,0.09
+develop or direct study courses or religious education programs within congregations.,0.0090202738430721,0.012801600200025,0.013,0.0,0.0
+develop or document style guidelines for web site content.,0.0147227458128303,0.0431053881735216,0.0541,0.02,0.02
+develop or implement marketing strategies.,0.0527737860473989,0.0295036879609951,0.0413,0.05,0.04
+develop or implement procedures for ongoing web site revision.,0.0779683440228762,0.0961120140017502,0.1219,0.02,0.02
+"develop or implement product-marketing strategies, including advertising campaigns or sales promotions.",0.0135822514188787,0.013101637704713,0.0207,0.17,0.18
+"develop or maintain applications that process biologically based data into searchable databases for purposes of analysis, calculation, or presentation.",0.0068429663637098,0.0038004750593824,0.0039,0.0,0.0
+"develop or maintain cost estimates, forecasts, or cost models.",0.0184552729203084,0.0247030878859857,0.0378,0.01,0.01
+develop or maintain internal or external company web sites.,0.1319863057727678,0.1775221902737842,0.194,0.09,0.09
+develop or maintain online help documentation.,0.0019699448622801,0.0021002625328166,0.0015999999999999,0.02,0.02
+develop or review specifications for design or construction of security systems.,0.0019699448622801,0.0019002375296912,0.0021,0.0,0.0
+"develop or revise business plans for online business, emphasizing factors such as product line, pricing, inventory, or marketing strategy.",0.0143080205786661,0.0043005375671959,0.0065,0.08,0.08
+"develop or update procedures, policies, or standards.",0.0020736261708211,0.0022002750343792,0.0026,0.01,0.01
+"develop or update project plans for information technology projects including information such as project objectives, technologies, systems, information specifications, schedules, funding, and staffing.",0.0143080205786661,0.009501187648456,0.013,0.03,0.03
+"develop performance standards, and evaluate work in light of established standards.",0.0015552196281158,0.0031003875484435,0.0026,0.0,0.0
+develop program plans for individuals or assist in plan development.,0.0072576915978741,0.0067008376047005,0.0056,0.09,0.09
+develop proposals that include documentation for estimates.,0.0037325271074781,0.0017002125265658,0.0018,0.01,0.01
+develop specialized computer software routines to customize and integrate image analysis.,0.0280976346146269,0.0115014376797099,0.0193,0.01,0.01
+"develop story or content ideas, considering reader or audience appeal.",0.0126491196420091,0.0055006875859482,0.0119,0.72,0.75
+"develop system engineering, software engineering, system integration, or distributed system architectures.",0.0593057084854856,0.0289036129516189,0.0453999999999999,0.05,0.05
+develop system interaction or sequence diagrams.,0.0162779654409462,0.0324040505063132,0.0215999999999999,0.04,0.04
+"develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course web sites.",0.1340599319435891,0.1043130391298912,0.0837,0.18,0.21
+"develop teaching or training materials, such as handouts, study materials, or quizzes.",0.1557293254286703,0.3211401425178147,0.2722,0.86,0.98
+develop training programs or routines designed to improve athletic performance.,0.0063245598210045,0.0201025128141017,0.0194,0.04,0.05
+"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",0.3292918359264028,0.2783347918489811,0.1895,0.16,0.17
+"develop web site maps, application models, image templates, or page templates that meet project goals, user needs, or industry standards.",0.081182464587649,0.0537067133391673,0.0549,0.03,0.03
+"develop, implement, and evaluate methods of data collection, such as questionnaires or interviews.",0.0110939000138932,0.0129016127015876,0.0181,0.0,0.0
+"develop, or contribute to the development of, educational or outreach programs on the environment or climate change.",0.003525164490396,0.0080010001250156,0.0053,0.0,0.0
+"develop, present, or respond to proposals for specific customer requirements, including request for proposal responses and industry-specific solutions.",0.0029030766391496,0.0099012376547068,0.0174,0.05,0.05
+"devise or evaluate methods and procedures for collecting data, such as surveys, opinion polls, and questionnaires.",0.0058061532782992,0.008201025128141,0.0076,0.0,0.0
+"diagnose mechanical problems and determine how to correct them, checking blueprints, repair manuals, or parts catalogs, as necessary.",0.0032141205647728,0.0056007000875109,0.0063,0.01,0.01
+"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",2.450404046059385,1.784823102887861,1.6978,0.06,0.05
+discuss data presentation requirements with clients.,0.0037325271074781,0.0093011626453306,0.0114,0.0,0.0
+discuss illnesses and treatments with patients and family members.,0.0015552196281158,0.0063007875984498,0.0034,0.01,0.01
+"document and communicate database schemas, using accepted notations.",0.0322448869562693,0.0435054381797724,0.0429,0.0,0.0
+"document design specifications, installation instructions, and other system-related information.",0.0045619775758065,0.0069008626078259,0.0059,0.06,0.06
+"document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",0.0800419701936974,0.0976122015251906,0.1142,0.07,0.07
+document methods used and write technical reports containing information collected.,0.0113012626309754,0.0067008376047005,0.0093,0.0,0.0
+document technical functions and specifications for new or proposed content management systems.,0.0235356570388203,0.0202025253156644,0.0133,0.0,0.0
+"draw charts and graphs, using computer spreadsheets, to illustrate technical reports.",0.0104718121626469,0.015401925240655,0.0147999999999999,0.0,0.0
+"edit graphics and photos, using pixel or bitmap editing, airbrushing, masking, or image retouching.",0.0067392850551688,0.0092011501437679,0.0146,0.11,0.14
+"edit instructional materials, such as books, simulation exercises, lesson plans, instructor guides, and tests.",0.1212034496844977,0.1550193774221777,0.1104,0.02,0.02
+"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",1.062629731237312,1.0577322165270655,0.9113,1.01,1.06
+"educate athletes or coaches on techniques to improve athletic performance, such as heart rate monitoring, recovery techniques, hydration strategies, or training limits.",0.001762582245198,0.0053006625828228,0.0077,0.1,0.11
+"educate patients about diagnoses, prognoses, or treatments.",0.0273718654548395,0.0684085510688836,0.0661,0.01,0.02
+educate patients about health care management.,0.0051840654270529,0.0087010876359544,0.0091,0.0,0.0
+educate patients about maintenance and promotion of healthy vision.,0.0209436243252938,0.0135016877109638,0.015,0.0,0.0
+"educate patients and family members about mental health and medical conditions, preventive health measures, medications, or treatment plans.",0.0320375243391871,0.0651081385173146,0.0602,0.0,0.0
+"electronically sort and compile text and numerical data, retrieving, updating, and merging documents as required.",0.0151374710469945,0.0067008376047005,0.0073999999999999,0.33,0.35
+employ financial models to develop solutions to financial problems or to assess the financial or capital impact of transactions.,0.0119233504822217,0.0119014876859607,0.0166,0.0,0.0
+"encourage clients to express their feelings and discuss what is happening in their lives, helping them to develop insight into themselves or their relationships.",0.0311043925623176,0.0725090636329541,0.0815,0.34,0.34
+enter data into computers for use in analyses or reports.,0.0129601635676323,0.0066008251031378,0.0071,0.11,0.11
+"enter or retrieve information from structural databases, protein sequence motif databases, mutation databases, genomic databases or gene expression databases.",0.0026957140220675,0.0046005750718839,0.0053999999999999,0.0,0.0
+"enter text into computer keyboard and select the size and style of type, column width, and appropriate spacing for printed materials.",0.0217730747936223,0.0189023627953494,0.0219,0.01,0.01
+establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter.,0.001762582245198,0.0044005500687585,0.0052,0.01,0.01
+establish tables of accounts and assign entries to proper accounts.,0.0030067579476907,0.0039004875609451,0.0052,0.0,0.0
+"estimate amounts and costs of required supplies, such as food and ingredients.",0.0169000532921925,0.0208026003250406,0.0182,0.0,0.0
+"estimate material requirements and costs, and present design to client for approval.",0.0037325271074781,0.0021002625328166,0.0015,0.01,0.01
+estimate patients' due dates and re-evaluate as necessary based on examination results.,0.0015552196281158,0.0022002750343792,0.0025,0.0,0.0
+"evaluate and grade students' class work, assignments, and papers.",0.1112500440645561,0.257032129016127,0.1694999999999999,0.04,0.05
+"evaluate and grade students' class work, assignments, papers, and oral presentations.",0.0165890093665694,0.0119014876859607,0.008,0.0,0.0
+"evaluate and grade students' class work, laboratory work, assignments, and papers.",0.0069466476722509,0.0107013376672084,0.0068,0.0,0.0
+"evaluate and grade students' class work, performances, projects, assignments, and papers.",0.003628845798937,0.0019002375296912,0.0015,0.0,0.0
+"evaluate clients' physical or mental condition, based on review of client information.",0.0041472523416423,0.0016002000250031,0.0026,0.01,0.01
+"evaluate code to ensure that it is valid, is properly structured, meets industry standards, and is compatible with browsers, devices, or operating systems.",0.0606535654965194,0.0399049881235154,0.0421,0.0,0.0
+"evaluate current or emerging technologies to consider factors such as cost, portability, compatibility, or usability.",0.0040435710331012,0.0024003000375046,0.0056,0.02,0.01
+evaluate data pertaining to costs to plan budgets.,0.0016589009366569,0.0031003875484435,0.0024,0.05,0.06
+"evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions.",0.0024883514049854,0.0025003125390673,0.0031999999999999,0.01,0.01
+evaluate findings and develop strategies and arguments in preparation for presentation of cases.,0.0024883514049854,0.0101012626578322,0.0069,0.02,0.02
+"evaluate instructor performance and the effectiveness of training programs, providing recommendations for improvement.",0.0057024719697582,0.0047005875734466,0.0036,0.01,0.01
+evaluate mortgage options to help clients obtain financing at the best prevailing rates and terms.,0.0148264271213714,0.0236029503687961,0.0281,0.0,0.0
+evaluate new technologies and methods to make recommendations regarding their use.,0.0037325271074781,0.0029003625453181,0.0073999999999999,0.59,0.52
+evaluate or recommend server hardware or software.,0.0852260356207503,0.1239154894361795,0.1482,0.0,0.0
+evaluate or recommend software for testing or bug tracking.,0.1087616926595707,0.0677084635579447,0.0937,0.0,0.0
+"evaluate the potential of new product developments or market opportunities, according to factors such as business plans, technologies, or market potential.",0.0338001065843851,0.0184023002875359,0.0362,0.03,0.03
+"evaluate training materials prepared by instructors, such as outlines, text, or handouts.",0.0033178018733138,0.0070008751093886,0.009,0.01,0.01
+evaluate workers' performance and prepare written performance evaluations.,0.0019699448622801,0.004900612576572,0.0034999999999999,0.0,0.0
+"examine clients' skin, using magnifying lamps or visors when necessary, to evaluate skin condition and appearance.",0.0065319224380867,0.0020002500312539,0.0023,0.0,0.0
+"examine documents, materials, or products and monitor work processes to assess completeness, accuracy, and conformance to standards and specifications.",0.0024883514049854,0.0039004875609451,0.0042,0.13,0.14
+examine legal data to determine advisability of defending or prosecuting lawsuit.,0.001866263553739,0.0021002625328166,0.0028,0.0,0.0
+"explain and demonstrate the use of sports and training equipment, such as trampolines or weights.",0.0030067579476907,0.0048006000750093,0.0073999999999999,0.0,0.0
+"explain company personnel policies, benefits, and procedures to employees or job applicants.",0.0016589009366569,0.0084010501312664,0.0060999999999999,0.0,0.0
+explain federal and state tax laws to individuals and companies.,0.0861591673976198,0.0747093386673334,0.1309,0.02,0.02
+"explain general financial topics to clients, such as credit report ratings, bankruptcy laws, consumer protection laws, wage attachments, or collection actions.",0.1018150449873197,0.0746093261657707,0.1097,0.03,0.01
+"explain goals, policies, or procedures to staff members.",0.0023846700964443,0.0025003125390673,0.0028,0.0,0.0
+"explain magnetic resonance imaging (mri) procedures to patients, patient representatives, or family members.",0.0015552196281158,0.0021002625328166,0.0023,0.0,0.0
+explain medical instructions to patients or family members.,0.0019699448622801,0.0067008376047005,0.0048,0.07,0.08
+"explain policies, procedures, or services to patients using medical or administrative knowledge.",0.0082945046832847,0.0151018877359669,0.013,0.01,0.01
+explain procedures and discuss test results or prescribed treatments with patients and parents or guardians.,0.001762582245198,0.007200900112514,0.0051,0.0,0.0
+explain procedures and discuss test results or prescribed treatments with patients.,0.0037325271074781,0.042005250656332,0.03,0.02,0.02
+explain products or services and prices and demonstrate use of products.,0.0217730747936223,0.0587073384173021,0.0715,0.0,0.0
+"explain products or services and prices, and answer questions from customers.",0.0160706028238641,0.0202025253156644,0.0366,0.22,0.23
+"explain recommendations, policies, procedures, requirements, or other related information to residents or building owners.",0.0020736261708211,0.0033004125515689,0.0042,0.0,0.01
+explain stock market terms or trading practices to clients.,0.0481081271630513,0.0615076884610576,0.1043,0.01,0.02
+explain to customers how specific types of advertising will help promote their products or services in the most effective way possible.,0.0033178018733138,0.0052006500812601,0.0087,0.0,0.0
+"explain treatment procedures, medications, diets, or physicians' instructions to patients.",0.0039398897245602,0.0226028253531691,0.0186,0.06,0.07
+"extend existing software programs, web-based interactive tools, or database queries as sequence management and analysis needs evolve.",0.0815971898218133,0.0139017377172146,0.0124,0.1,0.1
+"forecast and track marketing and sales trends, analyzing collected data.",0.0077760981405794,0.0081010126265783,0.0153,0.02,0.02
+formulate general rules that describe and predict the development and behavior of cultures and social institutions.,0.0055987906612171,0.0050006250781347,0.0067,0.01,0.01
+"formulate mathematical or simulation models of problems, relating constants and variables, restrictions, alternatives, conflicting objectives, and their numerical parameters.",0.0179368663776031,0.0089011126390798,0.0063,0.06,0.05
+formulate or modify recipes for specific kinds of food products.,0.012338075716386,0.0037004625578197,0.0041,0.0,0.0
+formulate strategic plans for the institution.,0.015863240206782,0.0076009501187648,0.009,0.01,0.0
+"formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",0.0210473056338349,0.026903362920365,0.0369,0.01,0.01
+furnish taxpayers with sufficient information and advice to ensure correct tax form completion.,0.0107828560882701,0.0111013876734591,0.0123,0.06,0.04
+"gather and analyze research data, such as statutes, decisions, and legal articles, codes, and documents.",0.0031104392562317,0.0079009876234529,0.0051,0.02,0.02
+gather and organize information on problems or procedures.,0.0026957140220675,0.0028003500437554,0.0036,0.02,0.02
+"gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",0.0527737860473989,0.0383047880985123,0.0711,0.08,0.09
+"gather records pertinent to specific problems, review them for completeness and accuracy, and attach records to correspondence as necessary.",0.0062208785124635,0.0188023502937867,0.0174999999999999,0.0,0.0
+"gather, analyze, or document user feedback to locate or resolve sources of problems.",0.0069466476722509,0.0058007250906363,0.0089,0.02,0.02
+"generate standard or custom reports summarizing business, financial, or economic data for review by executives, managers, clients, and other stakeholders.",0.058268895400075,0.0323040380047505,0.0467,0.16,0.18
+give advice on sightseeing and shopping.,0.0135822514188787,0.0053006625828228,0.0075,0.0,0.0
+"grade homework and tests, and compute and record results, using answer sheets or electronic marking devices.",0.0021773074793622,0.0050006250781347,0.0026,0.0,0.0
+greet customers and ascertain what each customer wants or needs.,0.1404881730731347,0.1059132391548943,0.1276,0.02,0.01
+"greet passengers, provide information, and answer questions concerning fares, schedules, transfers, and routings.",0.0098497243114005,0.0129016127015876,0.0164,0.0,0.0
+"grill, cook, and fry foods such as french fries, eggs, and pancakes.",0.0022809887879032,0.0021002625328166,0.0046999999999999,0.0,0.0
+guide and counsel students with adjustment or academic problems or special academic interests.,0.0046656588843476,0.0099012376547068,0.0060999999999999,0.03,0.03
+"guide and counsel students with adjustment or academic problems, or special academic interests.",0.0120270317907628,0.0394049256157019,0.0279999999999999,0.01,0.01
+guide clients in the development of skills or strategies for dealing with their problems.,0.3360311209815717,0.4434554319289912,0.4704,0.01,0.01
+handle customer complaints and take appropriate action to resolve them.,0.0095386803857774,0.0043005375671959,0.004,0.0,0.0
+hear and resolve complaints from customers or the public.,0.0033178018733138,0.0021002625328166,0.0031999999999999,0.0,0.0
+identify and analyze industry or geographic trends with business strategy implications.,0.0068429663637098,0.0114014251781472,0.0173,0.01,0.01
+"identify and resolve conflicts related to the meanings of words, concepts, practices, or behaviors.",0.0042509336501834,0.0034004250531316,0.0025,0.04,0.04
+identify appropriate key performance indicators (kpis) and report key metrics from digital campaigns.,0.0033178018733138,0.0069008626078259,0.0092,0.0,0.0
+identify issues for research and analysis.,0.0025920327135264,0.0073009126140767,0.0049,0.02,0.02
+"identify key risks and mitigating factors of potential investments, such as asset types and values, legal and ownership structures, professional reputations, customer bases, or industry segments.",0.0021773074793622,0.0033004125515689,0.003,0.05,0.06
+"identify main client groups and audiences, determine the best way to communicate publicity information to them, and develop and implement a communication plan.",0.0038362084160191,0.0066008251031378,0.0115,0.1,0.09
+identify or develop business rules or standard operating procedures to streamline operating processes.,0.0033178018733138,0.0016002000250031,0.0034,0.0,0.0
+identify or maintain links to and from other web sites and check links to ensure proper functioning.,0.0027993953306085,0.0067008376047005,0.0066,0.0,0.0
+"identify relationships and trends in data, as well as any factors that could affect the results of research.",0.0224988439534097,0.0117014626828353,0.0145,0.05,0.06
+"identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",0.0553658187609254,0.0354044255531941,0.0546,0.33,0.35
+"implement controls to provide security for operating systems, software, and data.",0.0074650542149562,0.0101012626578322,0.0073999999999999,0.0,0.0
+"import text and art elements, such as electronic clip art or electronic files from photographs that have been scanned or produced with a digital camera, using computer software.",0.0038362084160191,0.0075009376172021,0.0087,0.0,0.0
+"inform investment decisions by analyzing financial information to forecast business, industry, or economic conditions.",0.0515296103449062,0.0638079759969996,0.1139999999999999,0.01,0.01
+"initiate, facilitate, and moderate classroom discussions.",0.0096423616943184,0.0257032129016127,0.0217,0.07,0.07
+"input data, such as file numbers, new or updated information, or document information codes into computer systems to support document and information retrieval.",0.0040435710331012,0.0028003500437554,0.0033,0.01,0.01
+"install and perform minor repairs to hardware, software, or peripheral equipment, following design or installation specifications.",0.021150986942376,0.0908113514189273,0.0992,0.01,0.01
+"instruct and counsel patients about prescribed therapeutic regimens, normal growth and development, family planning, emotional problems of daily living, and health maintenance.",0.003525164490396,0.0084010501312664,0.0053999999999999,0.0,0.01
+instruct individuals and groups on ways to preserve health and prevent disease.,0.0100570869284827,0.0089011126390798,0.0087,0.0,0.01
+"instruct individuals or groups in sports rules, game strategies, and performance principles, such as specific ways of moving the body, hands, or feet, to achieve desired results.",0.0096423616943184,0.0216027003375421,0.0218,0.0,0.0
+instruct participants in maintaining exertion levels to maximize benefits from exercise routines.,0.0034214831818549,0.0061007625953244,0.0114,0.0,0.0
+"integrate and develop visual elements, such as line, space, mass, color, and perspective, to produce desired effects, such as the illustration of ideas, emotions, or moods.",0.0643860926039975,0.0371046380797599,0.0372,0.12,0.13
+"interpret and explain human resources policies, procedures, laws, standards, or regulations.",0.0066356037466277,0.0134016752094011,0.0146,0.01,0.01
+"interpret and explain information such as eligibility requirements, application details, payment methods, and applicants' legal rights.",0.0250908766669362,0.025903237904738,0.0311,0.04,0.05
+"interpret and explain plans and contract terms to representatives of the owner or developer, including administrative staff, workers, or clients.",0.0075687355234972,0.0137017127140892,0.0137,0.0,0.0
+"interpret and explain policies, rules, regulations, or laws to organizations, government or corporate officials, or individuals.",0.0435461495872447,0.0360045005625703,0.0411,0.0,0.0
+interpret clinical or diagnostic test results.,0.0076724168320383,0.0017002125265658,0.0034,0.02,0.02
+"interpret data on price, yield, stability, future investment-risk trends, economic influences, and other factors affecting investment programs.",0.0269571402206752,0.0245030628828603,0.0354,0.03,0.03
+"interpret data, reports, maps, photographs, or charts to predict long- or short-range weather conditions, using computer models and knowledge of climate theory, physics, and mathematics.",0.0384657654687328,0.0201025128141017,0.0207,0.0,0.0
+interpret diagnostic test results for deviations from normal.,0.0649044991467028,0.0403050381297662,0.0471,0.01,0.02
+interpret diagnostic test results to make appropriate differential diagnoses.,0.0203215364740475,0.0103012876609576,0.0113,0.0,0.01
+"interpret engineering sketches, specifications, or drawings.",0.001762582245198,0.0018002250281285,0.0028,0.11,0.12
+interpret government regulations and applicable codes to ensure compliance.,0.0570247196975823,0.0268033504188023,0.0284999999999999,0.01,0.01
+interpret laboratory results and communicate findings to patients or physicians.,0.0126491196420091,0.010501312664083,0.0167,0.01,0.01
+"interpret laws, rulings and regulations for individuals and businesses.",0.1206850431417924,0.0516064508063507,0.0612,0.22,0.24
+"interpret legal requirements, provide safety information, or recommend compliance procedures to contractors, craft workers, engineers, or property owners.",0.0060135158953814,0.0040005000625078,0.0026,0.01,0.01
+interpret regulatory rules or rule changes and ensure that they are communicated through corporate policies and procedures.,0.0081908233747436,0.0089011126390798,0.0069,0.0,0.0
+"interpret religious education activities to the public through speaking, leading discussions, or writing articles for local or national publications.",0.001762582245198,0.0070008751093886,0.0066,0.0,0.0
+interpret results of financial analysis procedures.,0.0198031299313422,0.0136017002125265,0.0163,0.0,0.01
+"interview clients to obtain information about employment history, educational background, and career goals, and to identify barriers to employment.",0.003628845798937,0.0039004875609451,0.0051,0.0,0.0
+"invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",0.0117159878651396,0.0176022002750343,0.0161,0.01,0.01
+investigate customer or public complaints to determine the nature and extent of problems.,0.0157595588982409,0.0112014001750218,0.0125,0.0,0.0
+"investigate products or markets to determine areas for opportunity or viability for merchandising specific products, using online or offline sources.",0.0204252177825885,0.004900612576572,0.0106,0.0,0.0
+"investigate whether networks, workstations, the central processing unit of the system, or peripheral equipment are responding to a program's instructions.",0.0049767028099708,0.0071008876109513,0.0069999999999999,0.0,0.0
+key and program specified commands and engineering specifications into computer system to change functions and test final layout.,0.0260240084438057,0.0121015126890861,0.0067,0.0,0.0
+key in processing instructions to program electronic equipment.,0.028201315923168,0.0152019002375296,0.0060999999999999,0.0,0.0
+"listen to and resolve customer complaints regarding services, products, or personnel.",0.0183515916117674,0.0093011626453306,0.0142,0.0,0.0
+"locate files relating to specified design project in database library, load program into computer, and record completed job data.",0.0023846700964443,0.0050006250781347,0.0048,0.0,0.0
+"locate suppliers, using sources such as catalogs and the internet, and interview them to gather information about products to be ordered.",0.0043546149587244,0.0028003500437554,0.0026999999999999,0.0,0.0
+"maintain customer records, using automated systems.",0.0022809887879032,0.0063007875984498,0.0073999999999999,0.0,0.0
+maintain databases of logistics information.,0.0016589009366569,0.0016002000250031,0.0015999999999999,0.0,0.0
+"maintain library of model documents, templates, or other reusable knowledge assets.",0.0031104392562317,0.0035004375546943,0.0067,0.0,0.0
+"make clinical recommendations to physicians, other health care providers, insurance companies, patients, or health care organizations.",0.0015552196281158,0.0018002250281285,0.0019,0.01,0.01
+make manuscript acceptance or revision recommendations to the publisher.,0.0058061532782992,0.0096012001500187,0.0081,0.0,0.0
+make tentative diagnoses and decisions about management and treatment of patients.,0.0080871420662025,0.0021002625328166,0.0025,0.01,0.01
+manage user access to systems and equipment through account management and password administration.,0.014204339270125,0.0213026628328541,0.0243999999999999,0.0,0.0
+"manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.",0.0166926906751104,0.0423052881610201,0.0787,0.0,0.0
+"mark copy to indicate and correct errors in type, arrangement, grammar, punctuation, or spelling, using standard printers' marks.",0.0232246131131971,0.0448056007000875,0.0526,0.0,0.0
+"mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing.",0.0042509336501834,0.0130016252031503,0.0105,0.01,0.01
+modify and customize commercial programs for internal needs.,0.1452575132660234,0.0652081510188773,0.0781,0.01,0.0
+modify existing databases and database management systems or direct programmers and analysts to make changes.,0.2552633816280868,0.2339292411551443,0.199,0.03,0.03
+"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",3.8168200113219983,5.974646830853857,4.1586,0.19,0.19
+monitor and analyze sales promotion results to determine cost effectiveness of promotion campaigns.,0.0710216963506253,0.0774096762095262,0.1152,0.02,0.03
+monitor bug resolution efforts and track successes.,0.001762582245198,0.0060007500937617,0.0078999999999999,0.0,0.0
+"monitor changes affecting supply and demand, tracking market conditions, price trends, or futures markets.",0.0139969766530429,0.0169021127640955,0.0301,0.05,0.05
+monitor equipment to ensure proper operation.,0.001866263553739,0.0025003125390673,0.0043,0.0,0.0
+monitor financial market trends to ensure that client plans are responsive.,0.0160706028238641,0.0163020377547193,0.0317,0.03,0.04
+"monitor fundamental economic, industrial, and corporate developments by analyzing information from financial publications and services, investment banking firms, government agencies, trade publications, company sources, or personal interviews.",0.0118196691736807,0.0135016877109638,0.0237,0.04,0.04
+"monitor market conditions, product innovations, and competitors' products, prices, and sales.",0.0092276364601542,0.0038004750593824,0.0075,0.0,0.0
+monitor markets or positions.,0.0087092299174489,0.013101637704713,0.0153,0.01,0.01
+monitor or track project milestones and deliverables.,0.0023846700964443,0.0015001875234404,0.0034999999999999,0.0,0.0
+"monitor systems for intrusions or denial of service attacks, and report security breaches to appropriate personnel.",0.0038362084160191,0.0144018002250281,0.0142,0.0,0.0
+"negotiate the sale, lease, or development of property and complete or review appropriate documents and forms.",0.0049767028099708,0.0080010001250156,0.0123,0.0,0.0
+"obtain and study information about clients' products, needs, problems, advertising history, and business practices to offer effective sales presentations and appropriate product assistance.",0.0027993953306085,0.0060007500937617,0.0109,0.01,0.0
+"obtain, organize, or develop training procedure manuals, guides, or course materials, such as handouts or visual materials.",0.0063245598210045,0.0162020252531566,0.0127,0.11,0.11
+offer advice on the purchase or sale of particular securities.,0.0384657654687328,0.0574071758969871,0.0762,0.0,0.0
+offer counsel and comfort to bereaved families or friends.,0.0033178018733138,0.0056007000875109,0.0034999999999999,0.01,0.01
+"operate desktop publishing software and equipment to design, lay out, and produce camera-ready copy.",0.0287197224658732,0.0429053631703962,0.0664,0.01,0.01
+"optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (seo) or for display and usability on internet-connected devices.",0.0145153831957482,0.0038004750593824,0.0053,0.01,0.01
+optimize shopping cart experience or web site conversion rates against key performance indicators (kpis).,0.0063245598210045,0.0121015126890861,0.0199,0.0,0.0
+optimize web site exposure by analyzing search engine patterns to direct online placement of keywords or other content.,0.0044582962672655,0.005900737592199,0.0095,0.01,0.01
+"organize and lead activities designed to promote physical, mental, and social development, such as games, arts and crafts, music, and storytelling.",0.0031104392562317,0.0081010126265783,0.0039,0.0,0.0
+"organize and lead activities designed to promote physical, mental, and social development, such as games, arts and crafts, music, storytelling, and field trips.",0.0034214831818549,0.004900612576572,0.0036,0.0,0.0
+"organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",0.331365462097224,0.1721215151893986,0.1263999999999999,0.51,0.54
+"participate in the hiring process by reviewing credentials, conducting interviews, or making hiring decisions or recommendations.",0.0063245598210045,0.0091011376422052,0.0103,0.01,0.01
+"perform administrative duties, such as compiling and maintaining records, completing forms, preparing reports, or composing correspondence.",0.0033178018733138,0.0043005375671959,0.0041,0.0,0.0
+"perform complex calculations as part of the analysis and evaluation of data, using computers.",0.0120270317907628,0.0144018002250281,0.0093,0.1,0.1
+"perform computer programming, data analysis, or software development for geographic information systems (gis) applications, including the maintenance of existing systems or research and development for future enhancements.",0.0054951093526761,0.0075009376172021,0.0072,0.01,0.01
+"perform cost-benefit analyses to compare operating programs, review financial requests, or explore alternative financing methods.",0.0047693401928887,0.00260032504063,0.0026,0.01,0.01
+perform data backups and disaster recovery operations.,0.0019699448622801,0.0046005750718839,0.0067,0.0,0.0
+"perform database verifications, using computers.",0.0051840654270529,0.0081010126265783,0.0053999999999999,0.0,0.0
+"perform financial calculations, such as amounts due, interest charges, balances, discounts, equity, and principal.",0.0185589542288495,0.0343042880360045,0.0354,0.25,0.26
+"perform general administrative tasks, such as keeping records or writing reports.",0.0054951093526761,0.0119014876859607,0.0133,0.0,0.0
+"perform humorous and serious interpretations of emotions, actions, and situations, using body movements, facial expressions, and gestures.",0.0038362084160191,0.0083010376297037,0.0071,0.0,0.0
+"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",0.9003684833705549,0.1740217527190898,0.1571,0.01,0.01
+perform needs assessments or consult with clients to determine the types of research and information required.,0.0047693401928887,0.0018002250281285,0.0086,0.01,0.01
+"perform ongoing hardware and software maintenance operations, including installing or upgrading hardware or software.",0.007050328980792,0.0171021377672209,0.0186,0.02,0.01
+"perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",0.2722671162288205,0.0874109263657957,0.0729,0.15,0.15
+"perform or interpret the outcomes of diagnostic imaging procedures including magnetic resonance imaging (mri), computer tomography (ct), positron emission tomography (pet), nuclear cardiology treadmill studies, mammography, or ultrasound.",0.0051840654270529,0.0048006000750093,0.0059,0.0,0.0
+perform risk analyses so that appropriate countermeasures can be developed.,0.0047693401928887,0.0025003125390673,0.0039,0.01,0.01
+perform security analyses of developed or packaged software components.,0.0429240617359983,0.0690086260782597,0.0759,0.02,0.02
+"perform statistical analyses, such as social network pattern analysis, network modeling, discrete event simulation, agent-based modeling, statistical natural language processing, computational sociology, mathematical optimization, or systems dynamics.",0.0067392850551688,0.0018002250281285,0.0017,0.0,0.0
+"perform system analysis, data analysis or programming, using a variety of computer languages and procedures.",0.0163816467494872,0.0076009501187648,0.0087,0.09,0.09
+"perform various administrative tasks, such as typing documents or answering telephone calls.",0.0138932953445018,0.0135016877109638,0.0105,0.01,0.01
+"perform various data entry or word processing tasks, such as updating phone directories, typing or proofreading documents, or creating schedules.",0.0037325271074781,0.0045005625703212,0.0046999999999999,0.0,0.0
+"plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate.",0.0144117018872071,0.0199024878109763,0.0107999999999999,0.01,0.01
+plan and conduct special research projects in area of interest or expertise.,0.0079834607576615,0.0114014251781472,0.0125,0.01,0.01
+plan and coordinate advertising campaigns and sales promotions and prepare merchandise displays and advertising copy.,0.0033178018733138,0.004900612576572,0.0060999999999999,0.01,0.01
+"plan and develop pre-production ideas into outlines, scripts, story boards, and graphics, using own ideas or specifications of assignments.",0.001866263553739,0.0022002750343792,0.0031,0.06,0.06
+"plan and develop programs, agendas, budgets, and services according to customer requirements.",0.0067392850551688,0.0032004000500062,0.0053999999999999,0.07,0.07
+plan and execute advertising policies and strategies for organizations.,0.0032141205647728,0.0055006875859482,0.0088,0.0,0.0
+"plan and prepare advertising and promotional material to increase sales of products or services, working with customers, company officials, sales departments, and advertising agencies.",0.084707629078045,0.2771346418302288,0.3007,0.17,0.18
+plan and prepare grant proposals to request program funding.,0.001762582245198,0.0023002875359419,0.0034999999999999,0.0,0.0
+"plan details such as framing, composition, camera movement, sound, and actor movement for each shot or scene.",0.0022809887879032,0.0085010626328291,0.0304,0.0,0.0
+"plan or conduct market or public opinion research to test products or determine potential for product success, communicating results to client or management.",0.0050803841185118,0.004900612576572,0.0069999999999999,0.0,0.0
+"plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility.",0.0067392850551688,0.0038004750593824,0.0042,0.0,0.0
+plan or direct research studies related to life sciences.,0.0026957140220675,0.0029003625453181,0.0025,0.0,0.0
+plan or lead religious education programs.,0.0020736261708211,0.0061007625953244,0.0056,0.0,0.0
+"plan project arrangements or outlines, and organize material accordingly.",0.0096423616943184,0.0065008126015751,0.0078999999999999,0.13,0.15
+"plan routes, itineraries, and accommodation details, and compute fares and fees, using schedules, rate books, and computers.",0.0091239551516131,0.009501187648456,0.0146,0.0,0.0
+"plan, develop, and provide training and staff development programs, using knowledge of the effectiveness of methods such as classroom training, demonstrations, on-the-job training, meetings, conferences, and workshops.",0.0163816467494872,0.0172021502687836,0.0195,0.0,0.0
+"plan, evaluate, and revise curricula, course content, and course materials and methods of instruction.",0.0438571935128678,0.0222027753469183,0.019,0.0,0.0
+"plan, evaluate, and revise curricula, course content, course materials, and methods of instruction.",0.0446866439811963,0.0590073759219902,0.0563,0.0,0.0
+"portray and interpret roles, using speech, gestures, and body movements, to entertain, inform, or instruct radio, film, television, or live audiences.",0.054640049601138,0.0926115764470558,0.059,0.02,0.02
+"position text and art elements from a variety of databases in a visually appealing way to design print or web pages, using knowledge of type styles and size and layout patterns.",0.0657339496150313,0.0453056632079009,0.0402999999999999,0.1,0.11
+pray and promote spirituality.,0.0066356037466277,0.0110013751718964,0.0085,0.01,0.02
+"prepare activity reports to inform management of the status and implementation plans of programs, services, and quality initiatives.",0.0033178018733138,0.0021002625328166,0.0028,0.02,0.02
+"prepare and deliver lectures to undergraduate or graduate students on topics such as financial accounting, principles of marketing, and operations management.",0.001762582245198,0.0037004625578197,0.0029,0.02,0.02
+"prepare and deliver lectures to undergraduate or graduate students on topics such as mechanics, hydraulics, and robotics.",0.0699848832652147,0.1068133516689586,0.1072999999999999,0.0,0.0
+"prepare and deliver lectures to undergraduate or graduate students on topics such as organic chemistry, analytical chemistry, and chemical separation.",0.024676151432772,0.0501062632829103,0.0419,0.0,0.0
+"prepare and deliver lectures to undergraduate or graduate students on topics such as quantum mechanics, particle physics, and optics.",0.0347332383612547,0.0765095636954619,0.065,0.0,0.0
+"prepare and distribute leaflets, pamphlets, and visual aids for educational and informational purposes.",0.0031104392562317,0.0055006875859482,0.0034,0.02,0.02
+"prepare and issue orders of the court, such as probation orders, release documentation, sentencing information, or summonses.",0.0021773074793622,0.0028003500437554,0.0031,0.0,0.0
+"prepare and maintain records and reports, such as budgets, personnel records, or training manuals.",0.0055987906612171,0.0139017377172146,0.0127,0.0,0.0
+prepare and process requisitions and purchase orders for supplies and equipment.,0.0022809887879032,0.0031003875484435,0.0039,0.0,0.0
+prepare appropriate formatting to data sets as requested.,0.1085543300424886,0.084010501312664,0.0667,0.06,0.06
+prepare comprehensive interpretive reports of findings.,0.0276829093804627,0.0135016877109638,0.0127999999999999,0.0,0.0
+prepare contract documents for building contractors.,0.0114049439395164,0.0197024628078509,0.0234,0.0,0.01
+"prepare correspondence or assist physicians or medical scientists with preparation of reports, speeches, articles, or conference proceedings.",0.0085018673003668,0.016402050256282,0.0172,0.0,0.0
+"prepare data analysis listings and activity, performance, or progress reports.",0.0171074159092747,0.0194024253031628,0.0243,0.06,0.07
+prepare design presentations and proposals for staff or customers.,0.0059098345868403,0.0065008126015751,0.0071,0.0,0.0
+"prepare detailed network specifications, including diagrams, charts, equipment configurations, or recommended technologies.",0.0213583495594581,0.0144018002250281,0.0125,0.0,0.0
+prepare detailed reports on audit findings.,0.0060135158953814,0.0080010001250156,0.009,0.0,0.0
+prepare detailed storyboards showing sequence and timing of story development for television production.,0.0048730215014297,0.0134016752094011,0.0602,0.01,0.01
+"prepare detailed workflow charts and diagrams that describe input, output, and logical operation, and convert them into a series of instructions coded in a computer language.",0.0543290056755148,0.0923115389423678,0.0815,0.01,0.01
+prepare diagnostic or treatment reports for other medical practitioners or therapists.,0.0045619775758065,0.0066008251031378,0.0075,0.0,0.0
+"prepare documentation or presentations, including charts, photos, or graphs.",0.0398136224797665,0.0381047630953869,0.0441,0.03,0.03
+"prepare documents, such as invoices or warranties.",0.001762582245198,0.0037004625578197,0.006,0.0,0.0
+"prepare evaluations of software or hardware, and recommend improvements or upgrades.",0.0157595588982409,0.0085010626328291,0.0098999999999999,0.08,0.07
+prepare financial reports to monitor client or corporate finances.,0.007050328980792,0.0191023877984748,0.017,0.02,0.03
+"prepare grant proposals, budgets, and program policies and goals or assist in their preparation.",0.0032141205647728,0.0033004125515689,0.0036,0.0,0.0
+prepare graphic representations or drawings of proposed plans or designs.,0.0032141205647728,0.0055006875859482,0.0055,0.01,0.01
+"prepare information regarding design, structure specifications, materials, color, equipment, estimated costs, or construction time.",0.007154010289333,0.0203025378172271,0.0226999999999999,0.01,0.01
+"prepare instructional program objectives, outlines, and lesson plans.",0.0081908233747436,0.0104013001625203,0.0069999999999999,0.01,0.02
+"prepare invoices, reports, memos, letters, financial statements, and other documents, using word processing, spreadsheet, database, or presentation software.",0.0248835140498541,0.0609076134516814,0.0778,0.13,0.15
+"prepare itemized statements, bills, or invoices and record amounts due for items purchased or services rendered.",0.0061171972039224,0.0166020752594074,0.0263,0.0,0.0
+prepare management reports defining and evaluating problems and recommending solutions.,0.1192335048222176,0.0966120765095636,0.1077999999999999,0.0,0.0
+prepare meeting agendas or packets of related information.,0.0093313177686952,0.0097012126515814,0.0107999999999999,0.1,0.1
+"prepare meeting agendas, attend meetings, and record and transcribe minutes.",0.00881291122599,0.010801350168771,0.0103,0.0,0.0
+"prepare necessary criteria, procedures, reports, or plans for successful conduct of the project with consideration given to site preparation, facility validation, installation, quality assurance, or testing.",0.0032141205647728,0.0041005125640705,0.006,0.02,0.02
+"prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools.",0.0039398897245602,0.0180022502812851,0.0106,0.0,0.0
+"prepare objectives, outlines, or other materials for courses of study, following curriculum guidelines or requirements.",0.0087092299174489,0.021002625328166,0.0132,0.06,0.07
+prepare or alter presentation contents to target specific audiences.,0.0026957140220675,0.0061007625953244,0.0075,0.36,0.35
+"prepare or direct preparation of financial statements, business activity reports, financial position forecasts, annual budgets, or reports required by regulatory agencies.",0.0066356037466277,0.0057007125890736,0.0063,0.01,0.01
+"prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences.",0.1681710824535974,0.2147268408551068,0.2191,0.16,0.16
+"prepare or organize online storefront marketing material, including product descriptions or subject lines, optimizing content to search engine criteria.",0.0079834607576615,0.0090011251406425,0.0118,0.19,0.21
+prepare or present technical or project status reports.,0.0046656588843476,0.0075009376172021,0.0089,0.01,0.01
+prepare or proctor examinations.,0.0308970299452355,0.0690086260782597,0.0496,0.01,0.01
+prepare or review engineering studies or specifications.,0.0082945046832847,0.0055006875859482,0.0071,0.0,0.0
+"prepare ordinances, resolutions, or proclamations so that they can be executed, recorded, archived, or distributed.",0.0023846700964443,0.0025003125390673,0.0021,0.0,0.0
+"prepare plans of action for investment, using financial analyses.",0.0020736261708211,0.0022002750343792,0.0028,0.07,0.07
+"prepare project budgets, schedules, or specifications for labor or materials.",0.0025920327135264,0.003600450056257,0.0053,0.0,0.0
+"prepare project status reports by collecting, analyzing, and summarizing information and trends.",0.0153448336640767,0.0243030378797349,0.0323,0.01,0.02
+"prepare promotional plans, sales literature, media kits, and sales contracts, using computer.",0.0020736261708211,0.0041005125640705,0.0051,0.01,0.01
+prepare publications and reports containing research findings.,0.0126491196420091,0.0417052131516439,0.0359,0.0,0.0
+prepare reports and document project activities and data.,0.0306896673281534,0.036104513064133,0.0415,0.05,0.05
+"prepare reports of activities, evaluations, recommendations, or decisions.",0.0171074159092747,0.0132016502062757,0.0109,0.01,0.01
+"prepare reports of findings, illustrating data graphically and translating complex findings into written text.",0.0302749420939891,0.0209026128266033,0.0202,0.04,0.05
+"prepare reports or correspondence concerning project specifications, activities, or status.",0.01762582245198,0.0475059382422802,0.0579,0.05,0.05
+"prepare reports or recommendations, based upon research outcomes.",0.0990156496567112,0.0459057382172771,0.0537,0.0,0.0
+prepare reports summarizing information or trends related to manufacturing performance.,0.0020736261708211,0.004900612576572,0.0034,0.0,0.0
+"prepare reports summarizing operational results, financial performance, or accomplishments of specified objectives, goals, or plans.",0.003525164490396,0.0074009251156394,0.0073999999999999,0.05,0.06
+prepare reports to document patients' care activities.,0.0111975813224343,0.0158019752469058,0.0107999999999999,0.01,0.01
+"prepare reports, deliver presentations, or participate in program review activities to communicate engineering results or recommendations.",0.0126491196420091,0.0190023752969121,0.023,0.01,0.02
+"prepare reports, manuscripts, proposals, and technical manuals for use by other scientists and requestors, such as sponsors and customers.",0.0919653206759191,0.0657082135266908,0.0736,0.0,0.0
+"prepare reports, sketches, working drawings, specifications, proposals, and budgets for proposed sites or systems.",0.0022809887879032,0.0040005000625078,0.0036999999999999,0.0,0.01
+prepare requests for proposals or statements of work.,0.0021773074793622,0.00260032504063,0.0022,0.01,0.01
+prepare requirements documentation for use by software developers.,0.0061171972039224,0.0068008501062632,0.0114,0.09,0.08
+"prepare research results for publication in form of journals, books, manuals, and film.",0.0148264271213714,0.0149018627328416,0.0132,0.01,0.01
+prepare responses to correspondence containing routine inquiries.,0.0633492795185869,0.119814976872109,0.133,0.05,0.05
+"prepare responses to customer requests for information, such as product data, written regulatory affairs statements, surveys, or questionnaires.",0.0091239551516131,0.0083010376297037,0.0096,0.0,0.0
+prepare results of experimental findings for presentation at professional conferences or in scientific journals.,0.0115086252480575,0.0243030378797349,0.0262,0.0,0.0
+prepare sales presentations or proposals to explain product specifications or applications.,0.0125454383334681,0.0582072759094886,0.0994,0.04,0.04
+"prepare scale drawings or architectural designs, using computer-aided design or other tools.",0.003525164490396,0.0057007125890736,0.0073,0.0,0.0
+prepare tables and graphs to present clinical data or results.,0.0016589009366569,0.00260032504063,0.0042,0.02,0.02
+"prepare tables, graphs, fact sheets, and written reports summarizing research results.",0.054640049601138,0.0669083635454431,0.0762,0.01,0.01
+prepare written documents to establish contracts with or communicate financial recommendations to clients.,0.003525164490396,0.0071008876109513,0.0067,0.04,0.04
+prepare written reports of investigation findings.,0.0029030766391496,0.0077009626203275,0.0051,0.01,0.01
+"prepare, administer, and grade tests and assignments to evaluate students' progress.",0.0244687888156898,0.0772096512064007,0.059,0.01,0.01
+"prepare, administer, or grade tests or assignments to evaluate students' progress.",0.0026957140220675,0.0019002375296912,0.0015999999999999,0.02,0.02
+"prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",0.0063245598210045,0.0080010001250156,0.0143,0.01,0.01
+"prepare, review, or maintain maintenance schedules, design documentation, or operational reports or charts.",0.0019699448622801,0.0046005750718839,0.0022,0.01,0.01
+"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",0.9971031442393627,1.3513689211151394,1.4107,0.63,0.61
+"present and explain proposals, reports, or findings to clients.",0.0284086785402501,0.0636079509938742,0.0894,0.02,0.02
+"present and make recommendations regarding course design, technology, and instruction delivery options.",0.0054951093526761,0.0051006375796974,0.0051,0.02,0.02
+present clear and concise explanations of governing rules and regulations.,0.0016589009366569,0.0018002250281285,0.0019,0.26,0.28
+present clients with information required to make informed health care and treatment decisions.,0.007154010289333,0.0132016502062757,0.0096,0.0,0.0
+"present information in audio-visual or interactive formats, using computers, television, audio-visual aids, or other equipment, materials, or technologies.",0.0026957140220675,0.0063007875984498,0.0063999999999999,0.0,0.0
+"present information in audio-visual or interactive formats, using computers, televisions, audio-visual aids, or other equipment, materials, or technologies.",0.0019699448622801,0.0066008251031378,0.0051,0.0,0.01
+"present investment information, such as product risks, fees, or fund performance statistics.",0.097045704794431,0.1460182522815352,0.2792,0.01,0.01
+"present oral or written reports on general economic trends, individual corporations, and entire industries.",0.0083981859918257,0.0064008001000125,0.0093,0.01,0.01
+"process and prepare documents, such as business or government forms and expense reports.",0.1202703179076282,0.0454056757094636,0.0436,0.0,0.0
+"process and prepare memos, correspondence, travel vouchers, or other documents.",0.0714364215847895,0.0389048631078884,0.0375,0.03,0.03
+"process large amounts of data for statistical modeling and graphic analysis, using computers.",0.0261276897523468,0.0100012501562695,0.0088,0.01,0.01
+"produce reports or presentations that outline findings, explain risk positions, or recommend changes.",0.0107828560882701,0.0089011126390798,0.0115,0.01,0.01
+produce written summary reports of financial research results.,0.0068429663637098,0.0094011751468933,0.0125,0.0,0.0
+program computerized graphic effects.,0.0399173037883076,0.0498062257782222,0.0666,0.01,0.01
+"proofread, edit, and revise translated materials.",0.084603947769504,0.1957244655581947,0.2269999999999999,0.02,0.03
+propose logistics solutions for customers.,0.0019699448622801,0.0027003375421927,0.0042,0.01,0.01
+provide additional instruction in vocational areas.,0.0216693934850812,0.0382047755969496,0.0268999999999999,0.01,0.01
+"provide advice and consultation on economic relationships to businesses, public and private agencies, and other employers.",0.1344746571777533,0.0500062507813476,0.0699999999999999,0.03,0.03
+"provide advice and technical assistance with cost analysis, fiscal allocation, and budget preparation.",0.0113012626309754,0.0158019752469058,0.0235,0.02,0.02
+provide advice on best practices and implementation for selection.,0.0074650542149562,0.0084010501312664,0.0172,0.04,0.04
+"provide advice on project costs, design concepts, or design changes.",0.0086055486089078,0.0122015251906488,0.0181,0.03,0.02
+"provide advice on transportation options, types of carriers, or shipping routes.",0.0287197224658732,0.0268033504188023,0.0363,0.01,0.01
+provide application or analytical support to researchers or traders on issues such as valuations or data.,0.0137896140359608,0.0094011751468933,0.0116,0.08,0.08
+"provide assistance to faculty and staff in duties such as teaching classes, conducting orientation programs, issuing transcripts, and scheduling events.",0.0094349990772363,0.0225028128516064,0.0179,0.0,0.0
+"provide assistance with the preparation of project-related reports, manuscripts, and presentations.",0.005391428044135,0.0136017002125265,0.0128999999999999,0.02,0.02
+"provide clear, detailed descriptions of web site specifications, such as product features, activities, software, communication protocols, programming languages, and operating systems software and hardware.",0.0184552729203084,0.0311038879859982,0.0265,0.11,0.1
+provide clinical services or health education to improve and maintain the oral health of patients or the general public.,0.0157595588982409,0.0115014376797099,0.0125,0.0,0.01
+"provide clinical services to clients, such as assessing psychological problems and conducting psychotherapy.",0.0020736261708211,0.0030003750468808,0.0036,0.0,0.0
+"provide consultation to other health care providers in areas such as patient discharge, patient care, or clinical procedures.",0.0032141205647728,0.0025003125390673,0.0023,0.0,0.01
+"provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning.",0.0047693401928887,0.0037004625578197,0.004,0.03,0.03
+provide consulting services to other physicians.,0.0064282411295456,0.0017002125265658,0.0036,0.0,0.0
+"provide customer assistance and information, such as giving directions or handling wheelchairs.",0.014204339270125,0.0085010626328291,0.0083,0.0,0.0
+provide customer service by greeting and assisting customers and responding to customer inquiries and complaints.,0.0413688421078824,0.0264033004125515,0.0287,0.02,0.02
+provide customers with information about local roads or highways.,0.0044582962672655,0.0043005375671959,0.005,0.0,0.0
+"provide customers with information on routes, gates, prices, timetables, terminals, or concourses.",0.0111975813224343,0.0115014376797099,0.0112,0.02,0.02
+provide customers with ongoing technical support.,0.0026957140220675,0.0018002250281285,0.0023,0.05,0.05
+"provide educational programs on topics such as classroom management, teaching strategies, or parenting skills.",0.0031104392562317,0.0073009126140767,0.0056,0.0,0.0
+provide feedback and recommendations to developers on software usability and functionality.,0.2919665648516217,0.4148518564820603,0.4911999999999999,0.08,0.07
+provide individual support or counseling in general wellness or nutrition.,0.1475385020539267,0.1509188648581072,0.2168999999999999,0.19,0.2
+provide individualized instruction and tutorial or remedial instruction.,0.0122343944078449,0.0054006750843855,0.0043,0.17,0.18
+"provide information about facilities, entertainment options, and rules and regulations.",0.003525164490396,0.0134016752094011,0.0214,0.0,0.0
+"provide information about local features, such as shopping, dining, nightlife, or recreational destinations.",0.0679112570943935,0.0545068133516689,0.0829,0.0,0.0
+"provide information about rental items, such as availability, operation, or description.",0.0040435710331012,0.015401925240655,0.0221,0.0,0.0
+"provide information and advice regarding drug interactions, side effects, dosage, and proper medication storage.",0.1219292188442851,0.171021377672209,0.2004,0.12,0.13
+"provide information and advice to the public regarding the selection, purchase, and care of products.",0.3397636480890498,0.3346418302287786,0.4257,0.01,0.02
+"provide information or counseling regarding issues such as animal health care, behavior problems, or nutrition.",0.0145153831957482,0.008201025128141,0.0068,0.02,0.02
+provide information to the public by leading workshops and training programs and by developing educational materials.,0.0023846700964443,0.0067008376047005,0.0046999999999999,0.0,0.0
+"provide information, technical assistance, or training to supervisors, managers, or employees on topics such as employee supervision, hiring, grievance procedures, or staff development.",0.0063245598210045,0.0244030503812976,0.0243999999999999,0.0,0.0
+"provide instructions to clients on how to obtain help with legal, financial, and other personal issues.",0.0166926906751104,0.0124015501937742,0.0143,0.0,0.0
+"provide logistics technology or information for effective and efficient support of product, equipment, or system manufacturing or service.",0.001762582245198,0.0019002375296912,0.0026999999999999,0.0,0.0
+provide or coordinate troubleshooting support for data warehouses.,0.0259203271352647,0.0243030378797349,0.0272,0.01,0.01
+provide patients or caregivers with assistance in locating health care resources.,0.0111975813224343,0.0250031253906738,0.027,0.01,0.01
+"provide patients with information needed to promote health, reduce risk factors, or prevent disease or disability.",0.0356663701381242,0.0127015876984623,0.0192,0.0,0.0
+"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",0.978025783467808,1.031428928616077,0.8526,0.16,0.19
+"provide professional consulting services to government, educational institutions, or industry.",0.243236349837324,0.0947118389798724,0.1341,0.0,0.0
+"provide project management services, including the provision and analysis of technical data.",0.0042509336501834,0.0016002000250031,0.0017,0.0,0.0
+"provide regulatory guidance to departments or development project teams regarding design, development, evaluation, or marketing of products.",0.0127528009505502,0.0081010126265783,0.0097,0.01,0.01
+provide requested information on students' progress and the development of case plans.,0.0021773074793622,0.0042005250656332,0.0048,0.0,0.0
+"provide scientific or technical guidance or expertise to scientists, engineers, technologists, technicians, or others, using knowledge of chemical, analytical, or biological processes as applied to micro and nanoscale systems.",0.0156558775896998,0.0184023002875359,0.0162,0.05,0.05
+provide statistical modeling advice to other departments.,0.0019699448622801,0.0018002250281285,0.0023,0.01,0.01
+provide system design and integration recommendations.,0.0734063664470696,0.0334041755219402,0.0449,0.03,0.03
+"provide technical and non-technical support and services to clients or other staff members regarding the use, operation, and maintenance of equipment.",0.0149301084299124,0.0231028878609826,0.0274,0.1,0.12
+provide technical customer service.,0.0404357103310129,0.0132016502062757,0.0192,0.18,0.19
+provide technical expertise in geographic information systems (gis) technology to clients or users.,0.0072576915978741,0.0077009626203275,0.0077,0.0,0.0
+provide technical expertise or support related to manufacturing.,0.0067392850551688,0.0076009501187648,0.0071,0.02,0.02
+provide technical guidance or support for the development or troubleshooting of systems.,0.3231746387224804,0.1532191523940492,0.1838,0.51,0.48
+"provide technical information about solar power, solar systems, equipment, and services to potential customers or dealers.",0.0062208785124635,0.007200900112514,0.0075,0.0,0.0
+"provide technical information about test results to physicians, family members, or researchers.",0.0117159878651396,0.0064008001000125,0.0083,0.0,0.0
+provide technical or administrative support for sustainability programs or issues.,0.0015552196281158,0.0038004750593824,0.0044,0.0,0.0
+"provide technical support for existing reports, dashboards, or other tools.",0.0027993953306085,0.0056007000875109,0.0081,0.06,0.05
+provide technical support or instruction to staff or customers regarding electronics equipment standards.,0.0096423616943184,0.0126015751968996,0.0179,0.12,0.12
+provide technical support to junior staff or clients.,0.0041472523416423,0.0150018752344043,0.0147999999999999,0.04,0.04
+"provide technical support to users or clients regarding the maintenance, development, or operation of geographic information systems (gis) databases, equipment, or applications.",0.0103681308541058,0.0229028628578572,0.0147999999999999,0.0,0.0
+provide training or technical assistance in web site implementation or use.,0.010575493471188,0.0068008501062632,0.0112,0.04,0.04
+"provide user applications or engineering support or recommendations for new or existing equipment with regard to installation, upgrades, or enhancements.",0.0198031299313422,0.0100012501562695,0.0097,0.0,0.0
+provide user support by diagnosing network and device problems and implementing technical or procedural solutions.,0.0048730215014297,0.0032004000500062,0.0043,0.08,0.08
+"read and interpret blueprints, schematics, work specifications, drawings, or charts.",0.0032141205647728,0.0039004875609451,0.0042,0.0,0.0
+"read and interpret electronic circuit diagrams, function block diagrams, specifications, engineering drawings, and service manuals.",0.0043546149587244,0.008201025128141,0.0055,0.0,0.0
+read documents on pleadings and motions to ascertain facts and issues.,0.0045619775758065,0.0053006625828228,0.0066,0.01,0.01
+"read from scripts or books to narrate action or to inform or entertain audiences, utilizing few or no stage props.",0.0020736261708211,0.0089011126390798,0.0098999999999999,0.0,0.0
+"read manuals, periodicals, and technical reports to learn how to develop programs that meet staff and user requirements.",0.3875607313264779,0.4701587698462308,0.4795999999999999,0.03,0.03
+"read source documents such as canceled checks, sales reports, or bills, and enter data in specific data fields or onto tapes or disks for subsequent entry, using keyboards or scanners.",0.0067392850551688,0.0047005875734466,0.0062,0.01,0.01
+"read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems or to provide technical assistance and support.",0.0059098345868403,0.0055006875859482,0.0075,0.06,0.06
+"read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.",0.509282587553681,0.4520565070633829,0.4254,0.44,0.47
+receive and respond to customer complaints.,0.0048730215014297,0.0027003375421927,0.0019,0.02,0.02
+"recommend actions related to historical art, such as which items to add to a collection or which items to display in an exhibit.",0.0115086252480575,0.0081010126265783,0.0085,0.0,0.0
+"recommend actions to ensure compliance with laws and regulations, or to protect solvency of institutions.",0.007050328980792,0.0018002250281285,0.002,0.06,0.06
+"recommend and explain the use of cosmetics, lotions, and creams to soften and lubricate skin and enhance and restore natural appearance.",0.003525164490396,0.0073009126140767,0.0107999999999999,0.01,0.01
+recommend and provide advice on a wide variety of products and services.,0.103992352466682,0.061707713464183,0.0851,2.01,2.25
+recommend changes that could improve service and increase operational efficiency.,0.0165890093665694,0.0074009251156394,0.0072,0.09,0.09
+"recommend changes to curricula or delivery methods, based on information such as instructional effectiveness data, current or future performance requirements, feasibility, and costs.",0.0027993953306085,0.0017002125265658,0.0029,0.0,0.0
+"recommend changes to improve systems and network configurations, and determine hardware or software requirements related to such changes.",0.0099534056199416,0.004900612576572,0.0075,0.09,0.07
+recommend design modifications to eliminate machine or system malfunctions.,0.0068429663637098,0.0073009126140767,0.0063,0.01,0.01
+"recommend financial products, such as stocks, bonds, mutual funds, or insurance.",0.1063770225631263,0.1062132766595824,0.1842,0.04,0.05
+recommend improvements in security systems or procedures.,0.007154010289333,0.0047005875734466,0.0073999999999999,0.0,0.0
+"recommend investments and investment timing to companies, investment firm staff, or the public.",0.0215657121765402,0.0169021127640955,0.027,0.06,0.07
+recommend merchandise or services that will meet customers' needs.,0.0092276364601542,0.0103012876609576,0.013,0.01,0.01
+"recommend methods for improving utilization of personnel, material, and utilities.",0.0043546149587244,0.0022002750343792,0.0042,0.01,0.01
+recommend methods to increase lifestyle physical activity.,0.024779832741313,0.0215026878359794,0.0315,0.03,0.03
+recommend new equipment or software packages.,0.0256092832096415,0.016402050256282,0.0211,0.0,0.0
+recommend new systems and processes to improve operations.,0.0114049439395164,0.0039004875609451,0.0060999999999999,0.08,0.07
+"recommend products to customers, based on customers' needs and interests.",0.0097460430028595,0.0109013626703337,0.0107999999999999,1.12,1.28
+"recommend special diets to improve athletes' health, increase their stamina, or alter their weight.",0.0045619775758065,0.0054006750843855,0.0052,0.02,0.02
+recommend the use of vitamin and mineral supplements to enhance the health of patients and children.,0.0272681841462984,0.0245030628828603,0.0357,0.03,0.03
+"recommend to clients strategies in cash management, insurance coverage, investment planning, or other areas to help them achieve their financial goals.",0.0067392850551688,0.0024003000375046,0.0034,0.01,0.02
+recommend treatment and prevention methods for pest problems to clients.,0.0057024719697582,0.0048006000750093,0.0029,0.01,0.01
+"recommend, select, and help locate or obtain merchandise based on customer needs and desires.",0.0871959804830304,0.1095136892111514,0.1157,0.19,0.22
+"record and compile operational data by completing and maintaining forms, logs, or reports.",0.0040435710331012,0.0042005250656332,0.0046999999999999,0.03,0.03
+record symbols on computer storage media and use computer aided transcription to translate and display them as text.,0.0259203271352647,0.0122015251906488,0.0128999999999999,0.0,0.0
+"record test data and prepare reports, summaries, or charts that interpret test results.",0.007050328980792,0.0054006750843855,0.0044,0.0,0.0
+"reformat documents, moving paragraphs or columns.",0.5347881894547815,0.2844355544443055,0.3626,0.14,0.15
+"report results of statistical analyses, including information in the form of graphs, charts, and tables.",0.0289270850829554,0.0348043505438179,0.0339,0.07,0.07
+"research and analyze laws, regulations, policies, and precedent decisions to prepare for hearings and to determine conclusions.",0.0136859327274197,0.0142017752219027,0.0126,0.02,0.02
+research and identify potential customers for products or services.,0.0302749420939891,0.0312039004875609,0.0601,0.01,0.01
+"research current trends and new technology, such as printing production techniques, computer software, and design trends.",0.0038362084160191,0.0066008251031378,0.0083,0.01,0.01
+research hardware or software products to meet technical networking or security needs.,0.0341111505100083,0.0367045880735091,0.0419,0.0,0.0
+research information requested by farmers.,0.0040435710331012,0.0034004250531316,0.0051,0.01,0.01
+"research laws, court decisions, documents, opinions, briefs, or other information related to cases before the court.",0.003525164490396,0.004900612576572,0.0034999999999999,0.0,0.0
+"research laws, regulations, policies, or precedent decisions to prepare for hearings.",0.0096423616943184,0.0081010126265783,0.0086,0.0,0.0
+research legal issues and write opinions on the issues.,0.0085018673003668,0.0140017502187773,0.009,0.0,0.0
+research new software or design concepts.,0.0033178018733138,0.003600450056257,0.0031999999999999,0.04,0.03
+"research new technologies by attending seminars, reading trade articles, or taking classes, and implement or recommend the implementation of new technologies.",0.0055987906612171,0.0037004625578197,0.0091,0.0,0.0
+"research or recommend textbooks, software, equipment, or other learning materials to complement tutoring.",0.028201315923168,0.0248031003875484,0.026,0.01,0.01
+"research particular roles to find out more about a character, or the time and place in which a piece is set.",0.0019699448622801,0.005900737592199,0.0057,0.0,0.0
+"research production topics using the internet, video archives, and other informational sources.",0.0735100477556107,0.0145018127265908,0.0277,0.0,0.0
+"research the history of a particular country or region, or of a specific time period.",0.0082945046832847,0.0101012626578322,0.0086,0.01,0.02
+"research, compile, and prepare reports, manuals, correspondence, or other information required by management or governmental agencies.",0.0149301084299124,0.0081010126265783,0.0117,0.12,0.12
+"research, document, rate, or select alternatives for web architecture or technologies.",0.0082945046832847,0.0055006875859482,0.0068,0.0,0.0
+"research, evaluate, and prepare recommendations on curricula, instructional methods, and materials for school systems.",0.012338075716386,0.0116014501812726,0.0111,0.0,0.0
+resolve customer complaints or answer customers' questions regarding policies and procedures.,0.0095386803857774,0.0122015251906488,0.0106,0.03,0.03
+resolve customer complaints regarding sales and service.,0.005287746735594,0.0133016627078384,0.0145,0.0,0.0
+"resolve customers' service or billing complaints by performing activities such as exchanging merchandise, refunding money, or adjusting bills.",0.0049767028099708,0.0083010376297037,0.0077,0.0,0.0
+"respond to customer complaints, legal inquiries, payment negotiations, or other post-service matters.",0.0025920327135264,0.0030003750468808,0.0041,0.0,0.0
+respond to customer inquiries or complaints.,0.0824266402901417,0.1749218652331541,0.3001,0.04,0.04
+"respond to user email inquiries, or set up automated systems to send responses.",0.0023846700964443,0.0067008376047005,0.0118,0.07,0.08
+"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",0.8918666160701881,0.4411551443930491,0.3412,0.01,0.0
+"review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.",0.0469676327690996,0.045605700712589,0.0559,0.02,0.02
+review billing for accuracy.,0.001762582245198,0.0031003875484435,0.0063999999999999,0.0,0.0
+review books and journal articles for potential publication.,0.0095386803857774,0.0089011126390798,0.0091,0.01,0.01
+"review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",0.4723720417130641,1.4684835604450557,1.2432,0.01,0.01
+"review complaints, petitions, motions, or pleadings that have been filed to determine issues involved or basis for relief.",0.0040435710331012,0.0060007500937617,0.0057,0.01,0.01
+"review files, records, and other documents to obtain information to respond to requests.",0.0113012626309754,0.0088011001375171,0.0068,0.64,0.7
+"review financial statements, sales or activity reports, or other performance data to identify opportunities for cost reductions or service improvements.",0.0102644495455648,0.0097012126515814,0.0098,0.02,0.02
+"review financial statements, sales or activity reports, or other performance data to measure productivity or goal achievement or to identify areas needing cost reduction or program improvement.",0.0251945579754772,0.0181022627828478,0.0243,0.03,0.03
+"review instructional content, methods, and student evaluations to assess strengths and weaknesses, and to develop recommendations for course revision, development, or elimination.",0.0918616393673781,0.0779097387173396,0.0619,0.01,0.01
+review legal publications and perform database searches to identify laws and court decisions relevant to pending cases.,0.001762582245198,0.0027003375421927,0.0028,0.01,0.01
+review manuscripts for publication in books and professional journals.,0.0367031832235348,0.0849106138267283,0.0797,0.08,0.08
+"review or update web page content or links in a timely manner, using appropriate tools.",0.0102644495455648,0.0195024378047255,0.0228,0.05,0.06
+review papers for colleagues and scientific journals.,0.0165890093665694,0.0080010001250156,0.0086,0.03,0.04
+review papers for publication in journals.,0.0199068112398832,0.024603075384423,0.0206,0.02,0.02
+"review project activities and prepare and review research, testing, or operational reports.",0.0022809887879032,0.0047005875734466,0.0053999999999999,0.02,0.02
+"review published materials and recommend revisions or changes in scope, format, content, and methods of reproduction and binding.",0.0438571935128678,0.0464058007250906,0.0573,0.01,0.01
+review rents to ensure that they are in line with rental markets.,0.0025920327135264,0.0033004125515689,0.0036,0.0,0.0
+review reports of securities transactions or price lists to analyze market conditions.,0.0072576915978741,0.0076009501187648,0.0115,0.01,0.01
+review technical documents to ensure completeness and conformance to requirements.,0.001866263553739,0.003600450056257,0.0026999999999999,0.19,0.21
+revise work to meet editorial approval or to fit time or space requirements.,0.0019699448622801,0.0051006375796974,0.0063999999999999,0.39,0.4
+"revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",0.0039398897245602,0.0056007000875109,0.0078,0.73,0.74
+"schedule and confirm appointments for clients, customers, or supervisors.",0.0050803841185118,0.0117014626828353,0.0069,0.01,0.02
+schedule and make appointments.,0.0027993953306085,0.0070008751093886,0.0028,0.01,0.01
+"search electronic sources, such as databases or repositories, or manual sources for information.",0.4853322052806963,0.1685210651331416,0.2167,4.69,4.95
+"search for specific sets of stored, typed characters to make changes.",0.010679174779729,0.0102012751593949,0.0089,0.01,0.01
+"search standard reference materials, including online sources and the internet, to answer patrons' reference questions.",0.1977202553877992,0.130316289536192,0.128,3.53,3.74
+"select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.",0.2720597536117384,0.1816227028378547,0.1913,0.08,0.09
+select cartographic elements needed for effective presentation of information.,0.0016589009366569,0.0057007125890736,0.0034999999999999,0.0,0.0
+"select electronics equipment, components, or systems to meet functional specifications.",0.0058061532782992,0.0050006250781347,0.0072,0.0,0.0
+"select material most pertinent to presentation, and organize this material into appropriate formats.",0.0336964252758441,0.0273034129266158,0.0147,0.62,0.66
+"select or assist customers in selecting products based on customer needs, product specifications, and applicable regulations.",0.035355326212501,0.0195024378047255,0.0212,0.03,0.04
+"select photographs, drawings, sketches, diagrams, and charts to illustrate material.",0.0040435710331012,0.0090011251406425,0.0141,0.01,0.01
+"select programming languages, design tools, or applications.",0.0020736261708211,0.0024003000375046,0.0022,0.01,0.01
+"share information about religious issues by writing articles, giving speeches, or teaching.",0.0583725767086161,0.0952119014876859,0.0827,0.02,0.02
+"sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",0.0029030766391496,0.0063007875984498,0.0059,0.0,0.0
+speak foreign languages to communicate with foreign visitors.,0.0244687888156898,0.0234029253656707,0.0407,0.0,0.0
+"store, retrieve, and manipulate data for analysis of system capabilities and requirements.",0.2298614610355274,0.2151268908613576,0.1901,0.01,0.01
+study and analyze information about alternative courses of action to determine which plan will offer the best outcomes.,0.038776809394356,0.0308038504813101,0.0444,0.08,0.09
+"study and interpret religious laws, doctrines, or traditions.",0.0138932953445018,0.003600450056257,0.0046999999999999,0.04,0.04
+study archival collections of primary historical sources to help explain the origins and development of cultural patterns.,0.007154010289333,0.0087010876359544,0.0087,0.0,0.0
+"study basic principles of plant and animal life, such as origin, relationship, development, anatomy, and function.",0.0613793346563068,0.0171021377672209,0.016,0.01,0.01
+study scripts to become familiar with production concepts and requirements.,0.0057024719697582,0.0251031378922365,0.0187999999999999,0.0,0.0
+"study the chemistry of living processes, such as cell development, breathing and digestion, or living energy changes, such as growth, aging, or death.",0.0040435710331012,0.0035004375546943,0.0028,0.0,0.0
+"study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services.",0.0326596121904335,0.0276034504313039,0.0388,0.06,0.06
+suggest specific product purchases to meet customers' needs.,0.0147227458128303,0.0281035129391173,0.0275,0.42,0.49
+suggest treatments to alleviate hair problems.,0.0068429663637098,0.0090011251406425,0.0139,0.0,0.0
+"supply guests or travelers with directions, travel information, and other information, such as available services and points of interest.",0.0205288990911296,0.0109013626703337,0.0127,0.01,0.01
+"supply the latest price quotes on any security, as well as information on the activities or financial positions of the corporations issuing these securities.",0.0312080738708587,0.0143017877234654,0.0313,0.0,0.0
+support the development of training materials and technical manuals.,0.001866263553739,0.0067008376047005,0.0055,0.01,0.01
+synthesize current business intelligence or trend data to support recommendations for action.,0.0585799393256982,0.0126015751968996,0.0214,0.06,0.06
+teach instructional courses and advise students.,0.001866263553739,0.0043005375671959,0.0025,0.0,0.0
+"teach library patrons basic computer skills, such as searching computerized databases.",0.0044582962672655,0.0044005500687585,0.0068,0.0,0.0
+teach patient education programs that include information required to make informed health care and treatment decisions.,0.0060135158953814,0.0260032504063007,0.0211,0.0,0.0
+"teach students study skills, note-taking skills, and test-taking strategies.",0.0087092299174489,0.0144018002250281,0.0146,0.01,0.01
+"tell jokes, perform comic dances, songs and skits, impersonate mannerisms and voices of others, contort face, and use other devices to amuse audiences.",0.0047693401928887,0.005900737592199,0.0046999999999999,0.0,0.0
+test system modifications to prepare for implementation.,0.0039398897245602,0.0093011626453306,0.0114,0.0,0.0
+"test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems.",0.0491449402484618,0.0459057382172771,0.0331,0.0,0.0
+"trace historical development in a particular field, such as social, cultural, political, or diplomatic history.",0.0215657121765402,0.0085010626328291,0.011,0.03,0.03
+"track and analyze factors that affect price movement, such as trade policies, weather conditions, political developments, or supply and demand changes.",0.0136859327274197,0.0104013001625203,0.0187999999999999,0.07,0.07
+"track, compile, and analyze web site usage data.",0.0024883514049854,0.0051006375796974,0.0060999999999999,0.0,0.0
+"translate messages simultaneously or consecutively into specified languages, orally or by using hand signs, maintaining message content, context, and style as much as possible.",0.0104718121626469,0.0219027378422302,0.0271,0.32,0.37
+translate or request translation of reference materials.,0.0023846700964443,0.0043005375671959,0.0028,0.04,0.04
+troubleshoot network or connectivity problems for users or user groups.,0.163920148803414,0.1538192274034254,0.1968,0.03,0.03
+tutor and assist children individually or in small groups to help them master assignments and to reinforce learning concepts presented by teachers.,0.0909285075905085,0.1049131141392674,0.0643,0.01,0.01
+use computer software to generate new images.,0.0488338963228387,0.0824103012876609,0.1616999999999999,0.01,0.01
+"use computers for various applications, such as database management or word processing.",0.359463096711851,0.2561320165020627,0.3988,0.01,0.01
+"use object-oriented programming languages, as well as client and server applications development processes and multimedia and internet technology.",0.0062208785124635,0.0064008001000125,0.0041,0.04,0.04
+"use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",0.0094349990772363,0.0029003625453181,0.0049,0.0,0.0
+"use the computer in the analysis and solution of business problems, such as development of integrated production and inventory control and cost analysis systems.",0.1439096562549896,0.0565070633829228,0.0401,0.03,0.03
+verify accuracy of billing data and revise any errors.,0.001762582245198,0.0062007750968871,0.0116,0.0,0.0
+verify that software technology is in place to adequately provide oversight and monitoring in all required areas.,0.0020736261708211,0.003600450056257,0.0036999999999999,0.0,0.0
+"weigh or measure materials, equipment, or products to maintain relevant records, using volume meters, scales, rules, or calipers.",0.0109902187053522,0.0033004125515689,0.0043,0.0,0.0
+write and edit news stories from information collected by reporters and other sources.,0.014100657961584,0.0240030003750468,0.0154,0.0,0.0
+"write and review grant proposals, journal articles, institutional reports, and publicity materials.",0.0074650542149562,0.0103012876609576,0.0109,0.06,0.07
+write articles and books.,0.003525164490396,0.0042005250656332,0.0029,0.32,0.34
+"write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",0.0623124664331763,0.0592074009251156,0.0786,0.17,0.17
+"write articles, manuals, and other publications, and assist in the distribution of promotional literature about facilities and programs.",0.035355326212501,0.0085010626328291,0.0098,0.0,0.0
+"write columns, editorials, commentaries, or reviews that interpret events or offer opinions.",0.0016589009366569,0.0028003500437554,0.0028,0.02,0.02
+write computer programs or scripts to be used in querying databases.,0.1556256441201293,0.1112139017377172,0.0941,0.03,0.03
+write detailed analysis plans and descriptions of analyses and findings for research protocols or reports.,0.0342148318185494,0.0287035879484935,0.0169,0.01,0.01
+"write drafts of legislative proposals, and prepare speeches, correspondence, and policy papers for governmental use.",0.0187663168459316,0.0268033504188023,0.0276,0.0,0.0
+write grant proposals to procure external research funding.,0.001866263553739,0.0047005875734466,0.0065,0.0,0.0
+"write humorous material for publication, or for performances such as comedy routines, gags, and comedy shows.",0.0461381823007711,0.1030128766095762,0.0818,0.07,0.07
+write information in medical records or provide narrative summaries to communicate patient information to other health care providers.,0.005391428044135,0.00260032504063,0.002,0.0,0.0
+write instructional articles on designated subjects.,0.0201141738569654,0.0258032254031753,0.0206,0.07,0.07
+"write narrative, dramatic, lyric, or other types of poetry for publication.",0.3152948592733599,0.1370171271408926,0.0946,0.04,0.04
+"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",4.872088369652896,3.672859107388424,2.8453,1.51,1.47
+write original literary pieces.,0.0501817533338724,0.0528066008251031,0.0503,0.06,0.06
+"write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.",0.5155034660661445,0.7633954244280535,0.5111,0.12,0.12
+write press releases or other media communications to promote clients.,0.0726805972872822,0.0668083510438804,0.0912,0.01,0.01
+write proposals to secure external funding or to partner with other companies.,0.0092276364601542,0.0065008126015751,0.01,0.0,0.0
+write reports or notes to summarize testing procedures or outcomes for physicians or other medical professionals.,0.005287746735594,0.0028003500437554,0.0046,0.0,0.0
+"write reports to summarize student performance, social growth, or physical development.",0.0261276897523468,0.0276034504313039,0.0168,0.0,0.01
+write research proposals or grant applications for submission to external bodies.,0.0024883514049854,0.0018002250281285,0.0029,0.0,0.0
+write sales outlines for use by staff.,0.0083981859918257,0.0156019502437804,0.0248,0.01,0.01
+"write speeches, press releases, or other promotional materials to increase awareness of the causes, missions, or goals of organizations seeking funds.",0.012441757024927,0.0266033254156769,0.018,0.02,0.02
+write supporting code for web applications or web sites.,0.4657364379664363,0.6655831978997374,0.4734,0.52,0.51
+"write technical reports or other documentation, such as handbooks or bulletins, for use by engineering staff, management, or customers.",0.0181442289946852,0.0158019752469058,0.0126,0.03,0.03
+write technical reports or prepare graphs or charts to document experimental results.,0.0148264271213714,0.0220027503437929,0.0153,0.01,0.01
+write technical reports or proposals related to engineering projects.,0.0043546149587244,0.0071008876109513,0.0058,0.0,0.0
+"write words to fit musical compositions, including lyrics for operas, musical plays, and choral works.",0.0072576915978741,0.020002500312539,0.0124,0.05,0.05
+"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",0.5282562670166947,0.3648456057007126,0.2612,0.31,0.28
+"write, review, or maintain engineering documentation.",0.0303786234025302,0.0238029753719214,0.0178,0.0,0.0
+"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",1.0717536863889252,1.41187648456057,1.1705,0.28,0.28

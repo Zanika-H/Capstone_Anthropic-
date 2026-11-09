@@ -133,3 +133,42 @@ Alternative Hypothesis (H₁): There is a systematic change in the distribution 
 
 -Explore visualizations of task usage changes across the five periods.
 
+<<<<<<< HEAD
+=======
+11/2 - 11/9
+-Built a five-period longitudinal dataset comparing Claude.ai O*NET task usage across August 2025, November 2025, February 2026, April 2026, and May 2026.
+
+-Matched 876 task descriptions across the five periods and excluded three ambiguous descriptions associated with multiple task IDs.
+
+-Created the final dataset containing 873 matched tasks, with no duplicate task names or missing values.
+
+-Developed Python scripts to check data quality and compare percentage distributions across releases.
+
+-Examined task rankings, reported percentages, and zero values to identify potential differences between releases.
+
+# Key Findings
+-Earlier releases showed programming and software-related tasks among the highest reported usage percentages.
+
+-April and May 2026 showed information searching, reference searches, and product recommendations among the highest reported tasks.
+
+-April contained 348 reported zero values, while May contained 334. These may partly result from the lower decimal precision in the newer release.
+
+-Some tasks showed substantial percentage differences between February and April 2026.
+
+-These differences are preliminary and cannot yet be interpreted as confirmed changes in user behavior because the releases may use different measurement methods.
+
+## Next Steps
+-Review the AEI documentation to compare metric definitions, denominators, task classification methods, and product coverage across releases.
+
+-Determine whether the five periods can be analyzed together or should be separated into comparable groups.
+
+-Create visualizations showing task usage patterns and rankings over time.
+
+-Investigate occupation-level data to address the occupation component of the research question.
+
+-Incorporate the February 2025 release if its data can be harmonized with the later releases.
+
+-Select and conduct appropriate statistical tests after confirming measurement comparability.
+
+-ocument limitations and begin drafting the results and methodology sections.
+>>>>>>> 64caae2 (Build five-period longitudinal dataset and validate task data)
