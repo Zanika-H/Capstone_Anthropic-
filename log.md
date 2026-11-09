@@ -134,17 +134,8 @@ Alternative Hypothesis (H₁): There is a systematic change in the distribution 
 -Explore visualizations of task usage changes across the five periods.
 
 
-11/2 - 11/9
--Built a five-period longitudinal dataset comparing Claude.ai O*NET task usage across August 2025, November 2025, February 2026, April 2026, and May 2026.
 
--Matched 876 task descriptions across the five periods and excluded three ambiguous descriptions associated with multiple task IDs.
-
--Created the final dataset containing 873 matched tasks, with no duplicate task names or missing values.
-
--Developed Python scripts to check data quality and compare percentage distributions across releases.
-
--Examined task rankings, reported percentages, and zero values to identify potential differences between releases.
-11/2 - 11/9
+# 11/2 - 11/9
 -Built a five-period longitudinal dataset comparing Claude.ai O*NET task usage across August 2025, November 2025, February 2026, April 2026, and May 2026.
 
 -Matched 876 task descriptions across the five periods and excluded three ambiguous descriptions associated with multiple task IDs.
